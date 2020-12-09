@@ -5,10 +5,11 @@ jobs:
     name: runner / stylelint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
       - name: depencies
-        run: npm install stylelint stylelint-scss stylelint-order stylelint-selector-bem-pattern stylelint-config-recommended
+        run: npm install stylelint stylelint-config-recommended -D
+        #run: npm install stylelint stylelint-scss stylelint-order stylelint-selector-bem-pattern stylelint-config-recommended
       - name: stylelint
         uses: reviewdog/action-stylelint@v1
         with:
