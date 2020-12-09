@@ -6,8 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Run stylelint with reviewdog
-        uses: reviewdog/action-stylelint@v1.0.1
+      - uses: actions/setup-node@v1
+      - name: depencies
+        run: npm install stylelint stylelint-scss stylelint-order stylelint-selector-bem-pattern
       - name: stylelint
         uses: reviewdog/action-stylelint@v1
         with:
