@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - name: depencies
-        run: npm install stylelint stylelint-config-recommended stylelint-scss stylelint-order -D
+        run: npm install stylelint stylelint-config-recommended stylelint-scss -D
         #run: npm install stylelint stylelint-scss stylelint-order stylelint-selector-bem-pattern stylelint-config-recommended
       - name: stylelint
         uses: reviewdog/action-stylelint@v1
