@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Run stylelint with reviewdog
+        uses: reviewdog/action-stylelint@v1.0.1
       - name: stylelint
         uses: reviewdog/action-stylelint@v1
         with:
