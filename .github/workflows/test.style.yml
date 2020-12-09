@@ -10,4 +10,4 @@ jobs:
         uses: reviewdog/action-stylelint@v1
         with:
           github_token: ${{ secrets.github_token }}
-          stylelint_input: '**/*.css, **/*.scss'
+          stylelint_input: '**/*.scss'
