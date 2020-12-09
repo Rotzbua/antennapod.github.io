@@ -1,0 +1,17 @@
+name: reviewdog
+on: [pull_request]
+jobs:
+  stylelint:
+    name: runner / stylelint
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - name: depencies
+        run: npm install stylelint stylelint-config-recommended stylelint-scss -D
+        #run: npm install stylelint stylelint-scss stylelint-order stylelint-selector-bem-pattern stylelint-config-recommended
+      - name: stylelint
+        uses: reviewdog/action-stylelint@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          stylelint_input: '_sass/*.scss'
