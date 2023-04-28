@@ -1,95 +1,58 @@
-<div class="container-fluid fixed background-gray-100">
-    <div class="container py-4">
-        <div class="navbar navbar-expand-xl justify-content-between">
-            <div>
-                <a href="/{% if site.lang != 'en' %}{{ site.lang }}{% endif %}">
-                    <img class="smallermobile" src="/assets/logos/logo.png" id="mainlogo" />
-                </a>
-            </div>
-            <div class="collapse navbar-collapse flex-grow-0 weight-500">
-                <div class="navbar-nav align-items-center">
-                    {% for link in site.data.navbar %}
-                    <div class="nav-item ml-2">
-                        <a class="nav-link" href="{% unless link.url contains 'http' %}{{ site.baseurl }}{% endunless %}{{ link.url }}">{% t {{ link.key }} %}</a>
-                    </div>
-                    {% endfor %}
-                    <div class="nav-item ml-0 ml-sm-1 text-center">
-                        <li class="nav-item dropdown mb-0">
-                            <button class="nav-link dropdown-toggle" id="navbarDropdown" aria-label="{% t generic.accessibility.lang-menu %}"
-                                role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <i class="fa fa-globe size-16 color-gray-900"></i><span
-                                    class="ml-1 size-16 color-gray-900 weight-600">{{ site.lang | upcase }}</span>
-                            </button>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                {% include nav_languages.html %}
-                            </div>
-                        </li>
-                    </div>
-                </div>
-            </div>
-            <div class="d-xl-none">
-                <div class="nav-item text-center d-inline-block">
-                    <div class="nav-item dropdown">
-                        <button class="nav-link dropdown-toggle" id="navbarDropdown" aria-label="{% t generic.accessibility.lang-menu %}"
-                            role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="fa fa-globe size-16 color-gray-900"></i><span
-                                class="ml-1 size-16 color-gray-900 weight-600">{{ site.lang | upcase }}</span>
-                        </button>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            {% include nav_languages.html %}
-                        </div>
-                    </div>
-                </div>
-                <button class="navbar-toggler" onclick="openNav()"><img
-                        src="{{ site.baseurl_root }}/assets/images/icons/burger.svg" /></button>
-            </div>
-        </div>
-
-        <div id="navbar-mobile" class="overlay">
-            <button class="closebtn" onclick="closeNav()">&times;</button>
-            <div class="overlay-header">
-                <img src="{{ site.baseurl_root }}/assets/logos/icon.png" width="80px" height="auto"
-                    alt="{% t generic.accessibility.logo %}" />
-            </div>
-            <div class="overlay-content">
-                {% for link in site.data.navbar %}
-                <a href="{% unless link.url contains 'http' %}{{ site.baseurl }}{% endunless %}{{ link.url }}">{% t {{ link.key }} %}</a>
-                {% endfor %}
-            </div>
-            <div class="overlay-footer">
-                {% if site.twitter_username %}
-                <a class="mr-2 color-gray-900" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"
-                    rel="noopener"><i class="fab fa-twitter mr-1"></i>Twitter</a>
-                {% endif %}
-                {% if site.mastodon_username %}
-                <a class="mr-2 color-gray-900" href="https://{{ site.mastodon_server }}/@{{ site.mastodon_username }}" target="_blank"
-                    rel="me noopener"><i class="fab fa-mastodon mr-1"></i>Mastodon</a>
-                {% endif %}
-                {% if site.github_username %}
-                <a class="mr-2 color-gray-900" href="https://github.com/{{ site.github_username }}" target="_blank"
-                    rel="noopener"><i class="fab fa-github mr-1"></i>GitHub</a>
-                {% endif %}
-            </div>
-        </div>
-    </div>
-</div>
-
-<script>
-    function openNav() {
-        document.getElementById("navbar-mobile").style.height = "100%";
-        document.documentElement.style.overflow = 'hidden';
-        document.body.scroll = "no";
-    }
-
-    function closeNav() {
-        document.getElementById("navbar-mobile").style.height = "0%";
-        document.documentElement.style.overflow = 'scroll';
-        document.body.scroll = "yes";
-    }
-</script>
-
-<script>
-    $(document).ready(function ($) {
-        $('.navbar-nav > .nav-item > a[href="/' + location.pathname.split('/')[1] + '"]').closest(".nav-item").addClass('active');
-    });
-</script>
+<header class="navbar navbar-expand-lg bg-body-tertiary sticky-top">
+	<nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap">
+		
+		<a class="navbar-brand" href="/{% if site.lang != 'en' %}{{ site.lang }}{% endif %}">
+			<img class="smallermobile" src="/assets/logos/logo.png" id="mainlogo"/>
+		</a>
+		
+		<ul class="navbar-nav justify-content-end">
+			{% for link in site.data.navbar %}
+			<li class="nav-item">
+				<a class="nav-link" href="{% unless link.url contains 'http' %}{{ site.baseurl }}{% endunless %}{{ link.url }}">
+					{% t {{ link.key }} %}
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+		<ul class="navbar-nav justify-content-end">
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					<i class="fa fa-globe"></i>
+					<span class="ml-1 weight-600">{{ site.lang | upcase }}</span>
+				</a>
+				{% include nav_languages.html %}
+			</li>
+		
+		</ul>
+		
+		<li class="nav-item dropdown">
+			<button class="btn btn-link nav-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center"
+					id="bd-theme"
+					type="button"
+					aria-expanded="false"
+					data-bs-toggle="dropdown"
+					data-bs-display="static"
+					aria-label="Toggle theme (auto)">
+					<span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text">
+				<li>
+					<button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+						Light
+					</button>
+				</li>
+				<li>
+					<button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+						Dark
+					</button>
+				</li>
+				<li>
+					<button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+						Auto
+					</button>
+				</li>
+			</ul>
+		</li>
+	
+	</nav>
+</header>
