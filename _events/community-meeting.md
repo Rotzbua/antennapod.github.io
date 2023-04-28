@@ -20,5 +20,3 @@ location-label: AntennaPod's Jitsi Meet
 more-information: https://forum.antennapod.org/t/monthly-community-call/1869
 meeting-room: https://meet.antennapod.org/CommunityCall
 ---
-
-{% tf "events/{{ page.slug }}.md" %}
