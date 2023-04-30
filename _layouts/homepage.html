@@ -5,10 +5,10 @@
   </head>
   <body>
     {% include nav.html %}
-    <div class="content">
+    <main class="content">
       {% include header.html %}
           {{ content | remove: "<!-- mdpo-disable -->" | remove: "<!-- mdpo-enable -->" | remove: "<!-- mdpo-disable-next-line -->" | remove: "<!-- mdpo-enable-next-line -->" }}
-    </div>
+    </main>
     {% include footer.html %}
   </body>
 </html>
