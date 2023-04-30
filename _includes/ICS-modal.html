@@ -1,6 +1,6 @@
 <script type="text/javascript">
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+  $('[data-bs-toggle="tooltip"]').tooltip()
 })
 $(function () {
    $(document).on('shown.bs.tooltip', function (e) {
@@ -25,7 +25,7 @@ $(function () {
       </div>
       <div class="modal-footer">
         <a role="button" class="btn btn-secondary" href="{{ site.baseurl }}/events.ics">{% t events.general.download-ics %}</a>
-        <button type="button" class="btn btn-primary" onclick="copyUrl();" data-toggle="tooltip" data-trigger="click" data-title="{% t generic.accessibility.copied %}" value="{{ site.url }}{{ site.baseurl }}/events.ics">{% t events.general.copy-url %}</button>
+        <button type="button" class="btn btn-primary" onclick="copyUrl();" data-bs-toggle="tooltip" data-trigger="click" data-title="{% t generic.accessibility.copied %}" value="{{ site.url }}{{ site.baseurl }}/events.ics">{% t events.general.copy-url %}</button>
       </div>
     </div>
   </div>

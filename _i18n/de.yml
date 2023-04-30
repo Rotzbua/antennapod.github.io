@@ -22,7 +22,7 @@ contribute:
       Hilf uns diese Probleme anzupacken.
   donate:
     link: Ich möchte <a href="https://opencollective.com/antennapod" target="_blank"
-      data-toggle="modal" data-target="#donationModal">Spenden</a>.
+      data-bs-toggle="modal" data-target="#donationModal">Spenden</a>.
     modal-button-donate: Trotzdem spenden
     modal-button-chat: Besprich mit uns, wie du helfen kannst
     modal-button-contribute: Beitragsmöglichkeiten erneut anschauen

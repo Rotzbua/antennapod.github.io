@@ -116,7 +116,7 @@ contribute:
     ¡Tú también puedes contribuir, mediante código o de otra manera!
   donate:
     link: Quiero hacer una <a href="https://opencollective.com/antennapod" target="_blank"
-      data-toggle="modal" data-target="#donationModal">donación</a>.
+      data-bs-toggle="modal" data-target="#donationModal">donación</a>.
     modal-title: ¿Estás seguro de que quieres hacer una donación?
     modal-button-donate: Donar de todas formas
     modal-button-chat: Comente con nosotros cómo puede ayudar

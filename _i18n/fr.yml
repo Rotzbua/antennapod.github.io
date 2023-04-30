@@ -114,7 +114,7 @@ contribute:
     title: Tester
   donate:
     link: Je souhaite <a href="https://opencollective.com/antennapod" target="_blank"
-      data-toggle="modal" data-target="#donationModal">faire un don</a>.
+      data-bs-toggle="modal" data-target="#donationModal">faire un don</a>.
     modal-title: Voulez-vous vraiment faire un don ?
     modal-button-donate: Donner quand même
     modal-button-chat: Discutez avec nous de la manière dont vous pouvez nous aider

@@ -113,7 +113,7 @@ contribute:
     title: "Design"
     text: "You turn complex requests in understandable user stories or wireframes? Help tackle these issues."
   donate:
-    link: "I want to make a <a href=\"https://opencollective.com/antennapod\" target=\"_blank\" data-toggle=\"modal\" data-target=\"#donationModal\">donation</a>."
+    link: "I want to make a <a href=\"https://opencollective.com/antennapod\" target=\"_blank\" data-bs-toggle=\"modal\" data-target=\"#donationModal\">donation</a>."
     modal-title: "Are you sure you want to donate?"
     modal-button-donate: "Donate anyway"
     modal-button-chat: "Discuss with us how you can help"
