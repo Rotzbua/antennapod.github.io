@@ -1,12 +1,12 @@
 {% assign languages = site.data.locales | sort_natural: 'name' %}
 <ul class="dropdown-menu">
-	{% for language in languages %}
-	{% if site.languages contains language.code %}
-	<li>
-		<a class="dropdown-item" href="{% if language.code != 'en' %}/{{ language.code }}{% endif %}{{ page.url }}">
-			{{ language.name }}
-		</a>
-	</li>
-	{% endif %}
-	{% endfor %}
+  {% for language in languages %}
+  {% if site.languages contains language.code %}
+  <li>
+    <a class="dropdown-item" href="{% if language.code != 'en' %}/{{ language.code }}{% endif %}{{ page.url }}">
+      {{ language.name }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
 </ul>
