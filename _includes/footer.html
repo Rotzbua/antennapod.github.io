@@ -86,24 +86,22 @@
           </ol>
         </div>
       </div>
-      <p class="top-border mb-2"></p>
-      <div class="d-block d-lg-flex justify-content-between pt-0 pb-3">
-        <div class="small mb-2 mb-lg-0">
-          <span>&copy;&nbsp;{{ 'now' | date: "%Y" }}&nbsp;{{ site.title }}</span>
-          <span class="mx-2">|</span>
-          <span class="">
-            <a class="copyright underline-hover" href="{{ site.baseurl }}/license">
-              <i class="fa fa-gavel"></i>
-              {% t titles.license %}
-            </a>
-          </span>
-          <span class="mx-2">|</span>
-          <span class="">
-            <a class="copyright underline-hover" href="{{ site.baseurl }}/privacy">
-              <i class="fa fa-user-shield"></i>
-              {% t titles.privacy %}
-            </a>
-          </span>
+      <p class="border-top mb-2"></p>
+      <div class="hstack gap-2 small pt-0 pb-3">
+        <div>&copy;&nbsp;{{ 'now' | date: "%Y" }}&nbsp;{{ site.title }}</div>
+        <div class="vr"></div>
+        <div>
+          <a class="icon-link" href="{{ site.baseurl }}/license">
+            <i class="fa fa-gavel" aria-hidden="true"></i>
+            {% t titles.license %}
+          </a>
+        </div>
+        <div class="vr"></div>
+        <div>
+          <a class="icon-link" href="{{ site.baseurl }}/privacy">
+            <i class="fa fa-user-shield" aria-hidden="true"></i>
+            {% t titles.privacy %}
+          </a>
         </div>
       </div>
     </div>
