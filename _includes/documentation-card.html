@@ -1,10 +1,10 @@
 <div class="col-12 col-md-3 mb-3 mb-md-3">
-	<a class="text-decoration-none" href="{% if site.lang != 'en' %}/{{ site.lang }}{% endif %}{{ include.item.url | replace:'.html','' }}">
-		<div class="card shadow-sm" style="height: 100%">
-			<div class="card-body">
-				<i class="{{ include.item.icon }} size-36 text-main mb-3" style="font-size: 36px"></i>
-				<h2 class="card-title">{% t include.item.title %}</h2>
-			</div>
-		</div>
-	</a>
+  <a class="text-decoration-none" href="{% if site.lang != 'en' %}/{{ site.lang }}{% endif %}{{ include.item.url | replace:'.html','' }}">
+    <div class="card shadow-sm" style="height: 100%">
+      <div class="card-body">
+        <i class="{{ include.item.icon }} size-36 text-main mb-3" style="font-size: 36px"></i>
+        <h2 class="card-title">{% t include.item.title %}</h2>
+      </div>
+    </div>
+  </a>
 </div>

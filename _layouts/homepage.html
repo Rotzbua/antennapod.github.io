@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include nav.html %}
-    <main class="content">
-      {% include header.html %}
-          {{ content | remove: "<!-- mdpo-disable -->" | remove: "<!-- mdpo-enable -->" | remove: "<!-- mdpo-disable-next-line -->" | remove: "<!-- mdpo-enable-next-line -->" }}
-    </main>
-    {% include footer.html %}
-  </body>
+<head>
+  {% include head.html %}
+</head>
+<body>
+{% include nav.html %}
+<main class="content">
+  {% include header.html %}
+  {{ content | remove: "<!-- mdpo-disable --> " | remove: "<!-- mdpo-enable --> " | remove: "<!-- mdpo-disable-next-line --> " | remove: "<!-- mdpo-enable-next-line --> " }}
+</main>
+{% include footer.html %}
+</body>
 </html>
