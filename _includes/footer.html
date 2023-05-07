@@ -56,31 +56,27 @@
             {% if site.twitter_username %}
             <li class="mb-2">
               <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener">
-                <i class="fab fa-twitter mr-3"></i>
-                Twitter
+                <i class="fab fa-twitter mr-3"></i>Twitter
               </a>
             </li>
             {% endif %}
             {% if site.mastodon_username %}
             <li class="mb-2">
               <a href="https://{{ site.mastodon_server }}/@{{ site.mastodon_username }}" target="_blank" rel="noopener">
-                <i class="fab fa-mastodon mr-3"></i>
-                Mastodon
+                <i class="fab fa-mastodon mr-3"></i>Mastodon
               </a>
             </li>
             {% endif %}
             {% if site.github_username %}
             <li class="mb-2">
               <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
-                <i class="fab fa-github mr-3"></i>
-                GitHub
+                <i class="fab fa-github mr-3"></i>GitHub
               </a>
             </li>
             {% endif %}
             <li class="mb-2">
               <a href="/rss.xml" target="_blank" rel="noopener">
-                <i class="fa fa-rss mr-3"></i>
-                RSS
+                <i class="fa fa-rss mr-3"></i>RSS
               </a>
             </li>
           </ol>
@@ -91,16 +87,14 @@
         <div>&copy;&nbsp;{{ 'now' | date: "%Y" }}&nbsp;{{ site.title }}</div>
         <div class="vr"></div>
         <div>
-          <a class="icon-link" href="{{ site.baseurl }}/license">
-            <i class="fa fa-gavel" aria-hidden="true"></i>
-            {% t titles.license %}
+          <a href="{{ site.baseurl }}/license">
+            <i class="fa fa-gavel" aria-hidden="true"></i>{% t titles.license %}
           </a>
         </div>
         <div class="vr"></div>
         <div>
-          <a class="icon-link" href="{{ site.baseurl }}/privacy">
-            <i class="fa fa-user-shield" aria-hidden="true"></i>
-            {% t titles.privacy %}
+          <a href="{{ site.baseurl }}/privacy">
+            <i class="fa fa-user-shield" aria-hidden="true"></i>{% t titles.privacy %}
           </a>
         </div>
       </div>
