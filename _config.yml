@@ -15,8 +15,8 @@ markdown: kramdown
 future: true
 
 plugins:
-  - jekyll-multiple-languages-plugin
   - jekyll-mentions
+  - jekyll-multiple-languages-plugin
 
 permalink: /:categories/:title
 
