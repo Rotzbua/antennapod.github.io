@@ -1,7 +1,7 @@
 <div class="inline-flex">
   {%- assign author = site.data.authors[page.author] %}
   <p class="size-14 color-gray-900 mb-0 mr-2">{% t generic.share %}</p>
-  <button title="{% t generic.accessibility.copy %}" class="copy-link" onclick="copyUrl();" data-toggle="tooltip" data-trigger="click" data-selector="true" data-title="{% t generic.accessibility.copied %}" value="{{ site.url }}{{ page.url | replace: '.html', '' }}">
+  <button title="{% t generic.accessibility.copy %}" class="copy-link" onclick="copyUrl(e)" data-toggle="tooltip" data-trigger="click" data-selector="true" data-title="{% t generic.accessibility.copied %}" value="{{ site.url }}{{ page.url | replace: '.html', '' }}">
       <i class="fa-solid fa-link color-gray-600 size-20 mr-2"></i>
   </button>
   <a title="{% t generic.accessibility.share-fb %}" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | replace: '.html', '' }}"
