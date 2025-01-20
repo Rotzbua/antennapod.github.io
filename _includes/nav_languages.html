@@ -1,7 +1,20 @@
 {% assign languages = site.data.locales | sort_natural: 'name' %}
-{% for language in languages %}
+<button class="nav-link dropdown-toggle color-gray-900 weight-600"
+        id="navbarDropdown"
+        aria-label="{% t generic.accessibility.lang-menu %}"
+        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <i class="fa fa-globe mr-1"></i>{{ site.lang | upcase }}
+</button>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+  {% for language in languages %}
   {% if site.languages contains language.code %}
-    <a class="dropdown-item" onchange="location = this.value;"
-      href="{% if language.code != 'en' %}/{{ language.code }}{% endif %}{{ page.url }}">{{ language.name }}</a>
+  <li>
+    <a class="dropdown-item{% if language.code  == site.lang %} active{% endif %}"
+       href="{% if language.code != 'en' %}/{{ language.code }}{% endif %}{{ page.url }}">
+      {{ language.name }}
+      {% if language.code == site.lang %}<i class="fa fa-check ml-1"></i>{% endif %}
+    </a>
+  </li>
   {% endif %}
-{% endfor %}
+  {% endfor %}
+</ul>
