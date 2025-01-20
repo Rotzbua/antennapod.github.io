@@ -7,9 +7,9 @@ tredjeparts-automatiseringsprogrammer sammen med AntennaPod til at gøre det. Fo
 eksempel:
 
 - Få abonnementerne opdateret først på dagen: kl. 7 om morgenen tændes for Wi-Fi,
-og derefter opdateres AntennaPod-feeds.
+  og derefter opdateres AntennaPod-feeds.
 - Få dine abonnementer inden turen hjem: opdater abonnementer kl. 17.00 på
-hverdage.
+  hverdage.
 
 ## Generelle instruktioner
 
@@ -28,7 +28,7 @@ I et flow skal du tilføje en blok af typen `APPS` » `Broadcast send`, angive
 
 1. Pakke skal være `de.danoeh.antennapod`
 1. Modtagerklasse skal være
-`de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
+   `de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
 
 ### Tasker ([websted](https://tasker.joaoapps.com/))
 
@@ -38,11 +38,12 @@ Opret en opgave. Tilføj en handling i opgaven
 1. Vælg `Send intent`
 1. Specificer at pakkenavn skal være `de.danoeh.antennapod`
 1. Specificer at klassenavn skal være
-`de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
+   `de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
 1. Angiv, at målet skal være `Broadcast receiver`
 1. Du kan lade de andre felter være tomme
 
 ### Llama - Placeringsprofiler
+
 ([websted](http://kebabapps.blogspot.com/search/label/Llama))
 
 Opret en begivenhed (Llama automatiseringsregel). I hændelsen,
@@ -51,14 +52,14 @@ Opret en begivenhed (Llama automatiseringsregel). I hændelsen,
 1. Specificer at intentionen skal sendes som en `Broadcast`.
 1. Specificer at pakkenavn skal være `de.danoeh.antennapod`
 1. Specificer at klassenavn skal være
-`de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
+   `de.danoeh.antennapod.core.receiver.FeedUpdateReceiver`
 1. Tilføj eventuelle andre betingelser/handlinger for dine specifikke behov.
 
 Som en genvej kan du klikke på [dette
 link](http://llama.location.profiles/AntennaPod+feeds+Update/AntennaPod+feeds+Update%7C0-1-0-0-0-0-0-0-1-0--0-%7C%3A%7Ct%7C420%7C425%7Cai%7Cde.danoeh.antennapod%7CFgAAAGEAbgBkAHIAbwBpAGQALgBjAG8AbgB0AGUAbgB0AC4ASQBuAHQAZQBuAHQAAAAAAP%2F%2F%2F%2F8AAAAA%2F%2F%2F%2F%2FwAAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FxQAAABkAGUALgBkAGEAbgBvAGUAaAAuAGEAbgB0AGUAbgBuAGEAcABvAGQAAAAAADUAAABkAGUALgBkAGEAbgBvAGUAaAAuAGEAbgB0AGUAbgBuAGEAcABvAGQALgBjAG8AcgBlAC4AcgBlAGMAZQBpAHYAZQByAC4ARgBlAGUAZABVAHAAZABhAHQAZQBSAGUAYwBlAGkAdgBlAHIAAAAAAAAAAAAAAAAAAAAAAAAA%2Fv%2F%2F%2F%2F%2F%2F%2F%2F8%3D%7C2%7C)
 for at oprette et begivenhedseksempel til at komme i gang med.
 
-***
+______________________________________________________________________
 
 **Ansvarsfraskrivelse:** AntennaPod-fællesskabet har ingen tilknytning til nogen
 af de nævnte tredjepartsapplikationer til automatisering.

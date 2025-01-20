@@ -1,8 +1,8 @@
 ---
 title: Forum Anniversary
 excerpt: Celebrating the first year of the AntennaPod forum
-date: "2021-06-01 12:00:00"
-image: "2021/forum-anniversary.png"
+date: '2021-06-01 12:00:00'
+image: 2021/forum-anniversary.png
 author: bytehamster
 layout: blog
 guid: https://antennapod.org/blog/2021/06/forum-anniversary
@@ -23,4 +23,3 @@ In my opinion, the forum is one of the best changes to AntennaPod since I became
 If you are not registered yet, you are warmly invited to [join now](https://forum.antennapod.org/). You can get an early look at new features and shape the future of AntennaPod by participating in discussions. Beyond code on GitHub and translations on Transifex, the forum offers a new way to contribute to AntennaPod. You can help other users and get help, without being familiar with the code and technical details.
 
 Happy discussing!
-

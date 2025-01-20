@@ -28,9 +28,11 @@ Adresse](https://play.google.com/apps/testing/de.danoeh.antennapod) auf.
 
 {% include image.html alt= "
 
-     Beta-Tester werden – Bestätigungsfenster in Google Play
+```
+ Beta-Tester werden – Bestätigungsfenster in Google Play
 
-     "
+ "
+```
 
 loc="/assets/images/documentation" file="project-beta.png" %}
 

@@ -6,13 +6,13 @@ Der er dog en måde at få en **forsmag** på et afsnit på uden at skulle abonn
 på podcasten. Der er nogle ulemper ved denne løsning:
 
 - Afsnittet begynder automatisk at streame (eventuel andet afsnit under
-afspilning stoppes)
+  afspilning stoppes)
 - Det er ikke muligt at skifte til et andet afsnit og vende tilbage til det
-forhåndsviste afsnit senere
+  forhåndsviste afsnit senere
 
 Sådan får du en forsmag på et afsnit:
 
 - Gør, som om du ville tilføje et abonnement
 - Du skal ikke trykke på abonner, men på det afsnit, du vil lytte til
 - Beskrivelsen af afsnittet vil blive udvidet; tryk på `Forhåndsvisning` under
-beskrivelsen
+  beskrivelsen

@@ -42,9 +42,9 @@ blogpost](https://www.openparenthesis.org/2015/01/05/mixcloud-to-rss-with-enclos
 YouTube laat je abonneren op een kanaal-feed, maar:
 
 - AntennaPod kan de video's niet automatisch downloaden, omdat YouTube dat niet
-toestaat. Het tonen van advertenties is immers hun businessmodel.
+  toestaat. Het tonen van advertenties is immers hun businessmodel.
 - Je zult geen afbeelding hebben die aan je abonnement gekoppeld is, omdat
-YouTube deze niet in de feeds opneemt.
+  YouTube deze niet in de feeds opneemt.
 
 Maar het is een manier om op de hoogte te blijven van nieuwe afleveringen. Voeg
 gewoon de URL van de gebruiker/kanaal (`https://www.youtube.com/user/USERNAME`
@@ -54,8 +54,8 @@ Als je op deze manier je niet kunt abonneren, voeg dan
 `https://www.youtube.com/feeds/videos.xml?channel_id=<CHANNEL_ID>` toe aan
 AntennaPod. De kanaal-ID staat in de URL van het kanaal. Als het kanaal een
 gebruikersaccount is (met een URL zoals youtube.com/user/UserName), vraag je aan
-de gebruiker wat zijn kanaal-ID is (hier wordt uitgelegd [hoe gebruikers hun
-kanaal-ID kunnen vinden](https://support.google.com/youtube/answer/3250431?
+de gebruiker wat zijn kanaal-ID is (hier wordt uitgelegd \[hoe gebruikers hun
+kanaal-ID kunnen vinden\](https://support.google.com/youtube/answer/3250431?
 hl=nl)).
 
 We hebben geen informatie over andere platforms, zoals je kunt zien. We delen

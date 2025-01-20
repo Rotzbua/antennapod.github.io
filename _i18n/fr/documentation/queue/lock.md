@@ -5,7 +5,7 @@ Si vous ne pouvez pas déplacer les épisodes dans la de lecture, cela peut êtr
 à l'une des raisons suivantes :
 
 - `Filtrage` activé. Vous pouvez le désactiver en touchant les trois points `…`
-dans la barre supérieure et en sélectionnant `Filtrer`.
+  dans la barre supérieure et en sélectionnant `Filtrer`.
 - La liste de lecture est verrouillée. Vous pouvez déverrouiller la liste de
-lecture en tapant sur l'icône `déverrouiller` dans la barre supérieure :
-{{ img-queue | strip }}
+  lecture en tapant sur l'icône `déverrouiller` dans la barre supérieure :
+  {{ img-queue | strip }}

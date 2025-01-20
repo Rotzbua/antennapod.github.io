@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Resumen de recursos en Transifex
+```
+   Resumen de recursos en Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Resumen de componentes en Weblate
+```
+   Resumen de componentes en Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -101,13 +105,13 @@ ser descargados, ¡la ayuda es muy bienvenida!
 
 # ¡Ponte en contacto!
 
-* ¿Quieres darnos **opiniones** sobre los textos en Inglés o alguna de las
-traducciones?
-* ¿Estás **interesado en ayudar** con las traducciones pero aún no estás seguro?
-¿O ya estás listo para empezar?
-* ¿Contribuyes (o quieres contribuir) y **necesitas ayuda**? Por ejemplo, porque
-tu idioma aún no está disponible o porque no estás seguro de como traducir
-algo?
+- ¿Quieres darnos **opiniones** sobre los textos en Inglés o alguna de las
+  traducciones?
+- ¿Estás **interesado en ayudar** con las traducciones pero aún no estás seguro?
+  ¿O ya estás listo para empezar?
+- ¿Contribuyes (o quieres contribuir) y **necesitas ayuda**? Por ejemplo, porque
+  tu idioma aún no está disponible o porque no estás seguro de como traducir
+  algo?
 
 ¡Echa un vistazo a la [sección de traducción en nuestro
 foro](https://forum.antennapod.org/c/translations/11)! Esa es la mejor manera de

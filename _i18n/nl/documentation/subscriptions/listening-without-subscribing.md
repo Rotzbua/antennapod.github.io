@@ -8,13 +8,13 @@ abonneren op de podcast. Er zijn een aantal nadelen van deze onofficiële
 oplossing:
 
 - De aflevering begint automatisch te spelen (elke eerder afgespeelde of dan
-spelende aflevering wordt gestopt)
+  spelende aflevering wordt gestopt)
 - Het is niet mogelijk om naar een andere aflevering over te schakelen en er
-later naar terug te keren naar de aflevering die je aan het 'voorproeven' was
+  later naar terug te keren naar de aflevering die je aan het 'voorproeven' was
 
 Om een voorvertoning van een aflevering te starten:
 
 - Doe alsof je een abonnement toevoegt
 - Tik niet op abonneren maar op de aflevering die je wilt beluisteren
 - De beschrijving van de aflevering wordt groter: tik op `Voorvertoning` onder
-beschrijving
+  beschrijving

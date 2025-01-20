@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.bugs-first-aid.database-error
 layout: doc
-level: "2"
-group: "bugs-first-aid"
-icon: "fa-solid fa-clock-rotate-left"
+level: '2'
+group: bugs-first-aid
+icon: fa-solid fa-clock-rotate-left
 order: 40
 ---
 

@@ -3,10 +3,10 @@ imágenes de portada, peticiones RSS y búsquedas) a través de un proxy o la re
 Tor. Esto podría tener dos beneficios:
 
 - Privacidad: dependiendo del tipo del servicio de proxy, tus hábitos de
-descarga/retransmisión pueden verse protegidos de los huéspedes de podcasts
+  descarga/retransmisión pueden verse protegidos de los huéspedes de podcasts
 - Acceso: si un huésped de pódcasts impide que el contenido sea descargado desde
-otros países (basándose en las direcciones IP), configurar un proxy con el
-país de origen puede permitir que sigas pudiendo acceder a su contenido
+  otros países (basándose en las direcciones IP), configurar un proxy con el
+  país de origen puede permitir que sigas pudiendo acceder a su contenido
 
 Puedes encontrar esta opción en `Ajustes` » `Red` » `Proxy`.
 

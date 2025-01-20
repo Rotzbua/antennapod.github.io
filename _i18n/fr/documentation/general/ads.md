@@ -21,6 +21,7 @@ obtenir la dernière version sur
 vous-même !
 
 ### 2. The podcast creators or their hosting company added the ads to their shownotes
+
 or audio file
 
 **Les éditeurs de podcasts ont ajouté les publicités à leurs notes ou à leur

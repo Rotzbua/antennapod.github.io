@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Überblick über die Ressourcen in Transifex
+```
+   Überblick über die Ressourcen in Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Übersicht der Komponenten in Weblate
+```
+   Übersicht der Komponenten in Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -100,13 +104,13 @@ Wahrscheinlichkeit heruntergeladen werden, ist Hilfe sehr willkommen!
 
 # Nimm Kontakt auf!
 
-* Möchtest du eine **Rückmeldung** zu den englischen Texten oder einer der
-Übersetzungen geben?
-* Bist du daran **interessiert, bei den Übersetzungen zu helfen**, aber noch
-nicht sicher? Oder bist du bereit, damit anzufangen?
-* Du trägst bereits bei oder möchtest es in Zukunft und **benötigst
-Unterstützung**? Zum Beispiel, weil deine Sprache noch nicht verfügbar ist
-oder weil du nicht weißt, wie du etwas übersetzen sollst?
+- Möchtest du eine **Rückmeldung** zu den englischen Texten oder einer der
+  Übersetzungen geben?
+- Bist du daran **interessiert, bei den Übersetzungen zu helfen**, aber noch
+  nicht sicher? Oder bist du bereit, damit anzufangen?
+- Du trägst bereits bei oder möchtest es in Zukunft und **benötigst
+  Unterstützung**? Zum Beispiel, weil deine Sprache noch nicht verfügbar ist
+  oder weil du nicht weißt, wie du etwas übersetzen sollst?
 
 Beteilige dich im [Übersetzungsbereich unseres
 Forums](https://forum.antennapod.org/c/translations/11)! Das ist der beste Weg,

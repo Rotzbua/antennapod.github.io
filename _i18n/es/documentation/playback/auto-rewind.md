@@ -4,7 +4,7 @@ Cuánto se rebobinará no puede ser configurado y dependerá de cuánto tiempo l
 en pausa el episodio.
 
 | Tiempo desde la última reproducción | Duración del rebobinado |
-| --- | --- |
-| Más de 1 día | 20 segundos |
-| Más de 1 hora | 10 segundos |
-| Más de 1 minuto | 3 segundos |
+| ----------------------------------- | ----------------------- |
+| Más de 1 día                        | 20 segundos             |
+| Más de 1 hora                       | 10 segundos             |
+| Más de 1 minuto                     | 3 segundos              |

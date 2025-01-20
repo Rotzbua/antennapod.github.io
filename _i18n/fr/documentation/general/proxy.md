@@ -3,11 +3,11 @@ multimédias, images de couverture, demandes et recherches RSS) via un proxy ou
 le réseau TOR. Cela peut avoir deux avantages potentiels :
 
 - Confidentialité : selon le type de service proxy, vos comportements liés au
-téléchargement/streaming peut être masqués aux hôtes de podcasts
+  téléchargement/streaming peut être masqués aux hôtes de podcasts
 - Accès : si l'hôte de podcasts empêche le téléchargement de contenu à partir
-d'autres pays (sur la base de votre adresse IP), la configuration d'un proxy
-par rapport au pays d'origine peut vous permettre d'accéder à son contenu malgré
-tout
+  d'autres pays (sur la base de votre adresse IP), la configuration d'un proxy
+  par rapport au pays d'origine peut vous permettre d'accéder à son contenu malgré
+  tout
 
 Vous trouverez cette option sous `Paramètres` → `Réseau` → `Proxy`.
 

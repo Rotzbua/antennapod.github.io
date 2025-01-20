@@ -1,8 +1,8 @@
 ---
 title: New website
 excerpt: We have a new, modern website!
-date: "2020-12-06 12:00:00"
-image: "2020/new-website.jpg"
+date: '2020-12-06 12:00:00'
+image: 2020/new-website.jpg
 author: bytehamster
 layout: blog
 guid: https://antennapod.org/blog/2020/12/new-website

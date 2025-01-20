@@ -1,8 +1,8 @@
 ---
 title: Curating your personal podcast archive with AntennaPod 🗃
 excerpt: Your favourite podcast is over? No need to part ways with it!
-date: "2023-09-27 08:35:00"
-image: "2023/archive.jpg"
+date: '2023-09-27 08:35:00'
+image: 2023/archive.jpg
 author: loucasal
 layout: blog
 guid: 2QUY-1288-Q8NP-HU3N-PSBZ
@@ -16,11 +16,11 @@ However, it doesn’t have to be that way (unless you want it, of course): Anten
 ## Step no. 1: switch off those updates
 
 {% include image.html
-   alt="Where to find the settings described in Steps no. 1 and 2."
-   loc="/assets/images/blog/2023"
-   file="step-1.png"
-   max-width="22rem"
-   class="float-md-right ml-md-3 w-100"
+alt="Where to find the settings described in Steps no. 1 and 2."
+loc="/assets/images/blog/2023"
+file="step-1.png"
+max-width="22rem"
+class="float-md-right ml-md-3 w-100"
 %}
 
 As you don’t expect new episodes to be published anymore for this podcast, you can safely disable its “[Keep updated](https://antennapod.org/documentation/automation/refreshing-podcasts)” setting. That way, AntennaPod will refresh your subscriptions faster, as it will only do so for active ones.
@@ -36,11 +36,11 @@ From that same Podcast settings screen, or from your Subscriptions screen, edit 
 As a final step, deselect the “Show in main list” checkbox on the Tags dialog to hide this podcast from the list that is displayed on your Subscriptions screen.
 
 {% include image.html
-   alt="How to assign tags and show/hide podcasts from the main list."
-   loc="/assets/images/blog/2023"
-   file="steps-2-3.png"
-   max-width="22rem"
-   class="float-md-right ml-md-3 w-100"
+alt="How to assign tags and show/hide podcasts from the main list."
+loc="/assets/images/blog/2023"
+file="steps-2-3.png"
+max-width="22rem"
+class="float-md-right ml-md-3 w-100"
 %}
 
 ## Wait, does that mean…

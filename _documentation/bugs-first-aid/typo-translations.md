@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.bugs-first-aid.typo-translations
 layout: doc
-level: "2"
-group: "bugs-first-aid"
-icon: "fa-solid fa-language"
+level: '2'
+group: bugs-first-aid
+icon: fa-solid fa-language
 order: 30
 ---
 

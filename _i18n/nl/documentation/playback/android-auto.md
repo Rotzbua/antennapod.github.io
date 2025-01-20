@@ -12,6 +12,6 @@ Als je AntennaPod hebt gedownload van F-Droid, zijn aanvullende stappen nodig.
 
 - Open de Android Auto instellingen.
 - Activeer `Ontwikkelaarsinstellingen` door 10 keer op het versienummer te
-drukken.
+  drukken.
 - Open het 3-dot menu en start de ontwikkelaarsinstellingen.
 - `Onbekende bronnen` inschakelen.

@@ -63,20 +63,20 @@ repository](https://github.com/AntennaPod/antennapod.github.io).
 AntennaPod is niet alleen op de wereld. Het project gebruikt veel andere
 projecten - als je daaraan bijdraagt help je ook AntennaPod:
 
-* **Nextcloud Podcast app** (Vue, PHP, Javascript) In december 2020 lanceerde
-Jonas Heinrich de [Nextcloud Podcast
-app](https://apps.nextcloud.com/apps/podcast). Het is een geweldige manier om je
-te abonneren op en te luisteren naar je podcasts - online, in een zelf-gehoste
-omgeving. De verdere ontwikkeling ervan en [integratie met
-AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
-zou een zeer welkome aanvulling zijn.
-* **gpodder.net** (Python, HTML) Het reeds lang bestaande en libre
-[gpodder.net](https://gpodder.net/) project laat gebruikers toe om
-podcastspelers te verbinden en te synchroniseren. Helaas is het project een
-slachtoffer van zijn eigen succes: de webserver is vaak niet beschikbaar en
-AntennaPod gebruikers zien sync fouten. Alle steun aan het project en de
-maintainers is welkom, in het bijzonder met [dit API
-probleem](https://github.com/gpodder/mygpo/issues/128).
+- **Nextcloud Podcast app** (Vue, PHP, Javascript) In december 2020 lanceerde
+  Jonas Heinrich de [Nextcloud Podcast
+  app](https://apps.nextcloud.com/apps/podcast). Het is een geweldige manier om je
+  te abonneren op en te luisteren naar je podcasts - online, in een zelf-gehoste
+  omgeving. De verdere ontwikkeling ervan en [integratie met
+  AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
+  zou een zeer welkome aanvulling zijn.
+- **gpodder.net** (Python, HTML) Het reeds lang bestaande en libre
+  [gpodder.net](https://gpodder.net/) project laat gebruikers toe om
+  podcastspelers te verbinden en te synchroniseren. Helaas is het project een
+  slachtoffer van zijn eigen succes: de webserver is vaak niet beschikbaar en
+  AntennaPod gebruikers zien sync fouten. Alle steun aan het project en de
+  maintainers is welkom, in het bijzonder met [dit API
+  probleem](https://github.com/gpodder/mygpo/issues/128).
 
 # Neem contact op!
 

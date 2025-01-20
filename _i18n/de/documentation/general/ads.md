@@ -12,7 +12,7 @@ Wenn du Werbung siehst, kann das zwei Ursachen haben:
 AntennaPod ist Open-Source. Das bedeutet, dass jeder den Quelltext herunterladen
 kann. Leider nehmen einige Entwickler AntennaPod, fügen Werbung hinzu und
 veröffentlichen dies dann als neue App. Du kannst die offizielle AntennaPod-App
-auf [Google Play](https://play.google.com/store/apps/details?
+auf \[Google Play\](https://play.google.com/store/apps/details?
 id=de.danoeh.antennapod) oder
 [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/) herunterladen. Du
 kannst sogar die neueste Version auf
@@ -20,6 +20,7 @@ kannst sogar die neueste Version auf
 selbst kompilieren!
 
 ### 2. Die Podcast-Herausgeber haben die Werbung in ihre Shownotes oder Audiodatei
+
 eingefügt
 
 AntennaPod spielt die Podcasts so ab, wie sie von den Podcastern veröffentlicht

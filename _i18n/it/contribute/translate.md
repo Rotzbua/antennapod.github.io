@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Panoramica delle risorse su Transifex
+```
+   Panoramica delle risorse su Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Panoramica dei componenti su Weblate
+```
+   Panoramica dei componenti su Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -99,12 +103,12 @@ hanno più probabilità di essere scaricate, l'aiuto è molto gradito!
 
 # Mettiti in contatto!
 
-* Vuoi dare **suggerimenti** sui testi in inglese o su qualche traduzione?
-* Sei **interessato ad aiutare** con le traduzioni ma non sei ancora sicuro? O
-sei pronto ad iniziare?
-* Stai contribuendo (o vuoi farlo) e **hai bisogno di aiuto**? Per esempio,
-perché la tua lingua non è ancora disponibile, o perché non sei sicuro di come
-tradurre qualcosa?
+- Vuoi dare **suggerimenti** sui testi in inglese o su qualche traduzione?
+- Sei **interessato ad aiutare** con le traduzioni ma non sei ancora sicuro? O
+  sei pronto ad iniziare?
+- Stai contribuendo (o vuoi farlo) e **hai bisogno di aiuto**? Per esempio,
+  perché la tua lingua non è ancora disponibile, o perché non sei sicuro di come
+  tradurre qualcosa?
 
 Intervieni nella [sezione sulle traduzioni sul nostro
 forum](https://forum.antennapod.org/c/translations/11)! Questo è il modo

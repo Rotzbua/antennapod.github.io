@@ -1,8 +1,8 @@
 ---
 title: Supporting old Android versions
 excerpt: Supporting old Android versions is hard
-date: "2020-05-29 12:00:00"
-image: "2020/old-phone.jpg"
+date: '2020-05-29 12:00:00'
+image: 2020/old-phone.jpg
 author: bytehamster
 layout: blog
 guid: https://antennapod.org/blog/2020/05/supporting-old-android-versions

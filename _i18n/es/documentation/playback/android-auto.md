@@ -12,6 +12,6 @@ Si descargó AntennaPod desde F-Droid, se requieren pasos adicionales.
 
 - Abre la configuración de Android Auto.
 - Active la `Configuración de desarrolladores` presionando el número de versión
-10 veces.
+  10 veces.
 - Abra el menú de 3 puntos e inicie la configuración del desarrollador.
 - Habilite `Fuentes desconocidas`.

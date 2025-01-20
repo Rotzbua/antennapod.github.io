@@ -7,9 +7,9 @@ Automatisierungsanwendungen von Drittanbietern zusammen mit AntennaPod
 verwenden. Beispielsweise:
 
 - Beziehe Abonnements zu Beginn des Tages: Um 7 Uhr wird das WLAN eingeschaltet
-und anschließend werden die AntennaPod-Feeds aktualisiert.
+  und anschließend werden die AntennaPod-Feeds aktualisiert.
 - Beziehe deine Abonnements vor der Heimfahrt: An Werktagen werden Abonnements um
-17 Uhr aktualisiert.
+  17 Uhr aktualisiert.
 
 ## Generelle Anweisungen
 
@@ -41,6 +41,7 @@ Erstelle eine Aufgabe. Füge der Aufgabe eine Aktion hinzu
 1. Du kannst die anderen Felder leer lassen
 
 ### Llama – Standortprofile
+
 ([Webseite](http://kebabapps.blogspot.com/search/label/Llama))
 
 Erstelle ein Ereignis (Llama-Automatisierungsregel). In dem Ereignis,
@@ -55,7 +56,7 @@ Als Abkürzung kannst du auf [diesen
 Link](http://llama.location.profiles/AntennaPod+feeds+Update/AntennaPod+feeds+Update%7C0-1-0-0-0-0-0-1-0--0-%7C%3A%7Ct%7C420%7C425%7Cai%7Cde.danoeh.antennapod%7CFgAAAGEAbgBkAHIAbwBpAGQALgBjAG8AbgB0AGUAbgB0AC4ASQBuAHQAZQBuAHQAAAAAAP%2F%2F%2F%2F8AAAAA%2F%2F%2F%2F%2FwAAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FxQAAABkAGUALgBkAGEAbgBvAGUAaAAuAGEAbgB0AGUAbgBuAGEAcABvAGQAAAAAADUAAABkAGUALgBkAGEAbgBvAGUAaAAuAGEAbgB0AGUAbgBuAGEAcABvAGQALgBjAG8AcgBlAC4AcgBlAGMAZQBpAHYAZQByAC4ARgBlAGUAZABVAHAAZABhAHQAZQBSAGUAYwBlAGkAdgBlAHIAAAAAAAAAAAAAAAAAAAAAAAAA%2Fv%2F%2F%2F%2F%2F%2F%2F%2F8%3D%7C2%7C)
 klicken, um ein Beispielereignis zu erstellen, das den Einstieg erleichtert.
 
-***
+______________________________________________________________________
 
 **Haftungsausschluss:** Die AntennaPod-Community steht in keiner Beziehung zu den
 aufgeführten Automatisierungsanwendungen von Drittanbietern.

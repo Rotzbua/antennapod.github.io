@@ -1,8 +1,9 @@
 ---
 title: We're looking for a translations coordinator!
-excerpt: AntennaPod already is available in many languages. Will you bring us to the next level?
-date: "2022-10-27 23:40:00"
-image: "2022/website-translations.jpg"
+excerpt: AntennaPod already is available in many languages. Will you bring us to the
+  next level?
+date: '2022-10-27 23:40:00'
+image: 2022/website-translations.jpg
 author: keunes
 layout: blog
 guid: https://antennapod.org/blog/2022/10/translations-coordinator
@@ -15,19 +16,23 @@ Today, we want to up our game. We would like to make our website available in (a
 We're not in a rush and don't have a timeline for all this. But still — it's an ambitious programme that requires some effort. So, to make this happen, **we're looking for a volunteer** that would like to take up the role of **Translations Coordinator**.
 
 # Who we're hoping to find
+
 For this role we look for someone who is
-* comfortable in reading & writing in English, and maybe one or two other languages
-* loves the quirks of the languages that our world is rich (such as [plural forms](https://web.archive.org/web/20210303102554/https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_and_Plurals))
-* happy to devote, on average, 1 hour every week to AntennaPod
-* interested in learning about (or knows already about) Transifex, Weblate and other tools we use
+
+- comfortable in reading & writing in English, and maybe one or two other languages
+- loves the quirks of the languages that our world is rich (such as [plural forms](https://web.archive.org/web/20210303102554/https://developer.mozilla.org/en-US/docs/Mozilla/Localization/Localization_and_Plurals))
+- happy to devote, on average, 1 hour every week to AntennaPod
+- interested in learning about (or knows already about) Transifex, Weblate and other tools we use
 
 # What this role means in practice
+
 Are you on board? You can probably expect to be doing the following:
-* send announcements to all AntennaPod translators to prepare for new (major) releases
-* answer the occasional question from translators about specific texts (in Transifex or Weblate)
-* add new languages in our tools and on-board new translators
-* represent the translators in our community, like on the forum or our community calls
-* click buttons and write language codes to get new website translations on the live website
+
+- send announcements to all AntennaPod translators to prepare for new (major) releases
+- answer the occasional question from translators about specific texts (in Transifex or Weblate)
+- add new languages in our tools and on-board new translators
+- represent the translators in our community, like on the forum or our community calls
+- click buttons and write language codes to get new website translations on the live website
 
 AntennaPod is a project driven by volunteers. We do what interests us, and when we feel like it. But we try to respect the agreements we make with each-other, and let each-other know if we can't keep to them.
 
@@ -37,4 +42,4 @@ Whoever will pick up this task, will of course not be alone in this effort. You'
 
 We're all doing this for our own pleasure and entertainment. So we hope you'll have a good time working on this together with us. And unless you're an expert already, you'll also learn a lot about different translation tools & processes, and build experience with community management.
 
-**With the support of our community members, we make a great podcasting experience accessible to thousands of people across the world. Will you join us? Contact @Keunes on our forum or via [username]@mailbox.org to learn more or indicate your interest.**
+**With the support of our community members, we make a great podcasting experience accessible to thousands of people across the world. Will you join us? Contact @Keunes on our forum or via \[username\]@mailbox.org to learn more or indicate your interest.**

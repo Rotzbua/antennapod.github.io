@@ -6,13 +6,13 @@ Hay, de todas formas, una manera de **previsualizar** un episodio sin tener que
 suscribirte al podcast. Hay algunas desventajas de esta solución:
 
 - El episodio empieza a reproducirse de manera automática (y cualquier episodio
-reproduciéndose se detiene)
+  reproduciéndose se detiene)
 - No es posible cambiar a otro episodio y volver al episodio previsualizado más
-tarde
+  tarde
 
 Para previsualizar un episodio:
 
 - Hazlo como si estuvieras añadiendo una suscripción
 - No toques en suscribirse sino en el episodio que quieres escuchar
 - La descripción del episodio se expandirá; toca en `Previsualizar` debajo de la
-descripción
+  descripción

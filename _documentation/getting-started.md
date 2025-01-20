@@ -1,10 +1,10 @@
 ---
 title: documentation.categories.getting-started.title
 layout: doc
-level: "1"
-group: "getting-started"
-icon: "fa-solid fa-users"
-order: "10"
+level: '1'
+group: getting-started
+icon: fa-solid fa-users
+order: '10'
 ---
 
 # {% t {{ page.title }} %}

@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.queue.lock
 layout: doc
-level: "2"
-group: "queue"
-icon: "fa-solid fa-lock"
+level: '2'
+group: queue
+icon: fa-solid fa-lock
 ---
 
 # {% t {{ page.title }} %}

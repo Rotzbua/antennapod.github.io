@@ -12,13 +12,14 @@ Als je advertenties ziet, kan dat twee redenen hebben:
 AntennaPod is open-source. Dit betekent dat iedereen de broncode kan downloaden.
 Helaas voegen sommige ontwikkelaars advertenties toe aan AntennaPod om het
 daarna te publiceren als een nieuwe app. Je kunt de officiële AntennaPod app
-vinden op [Google Play](https://play.google.com/store/apps/details?
+vinden op \[Google Play\](https://play.google.com/store/apps/details?
 id=de.danoeh.antennapod) en
 [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/). Je kunt zelfs de
 laatste release van [GitHub](https://github.com/AntennaPod/AntennaPod/) halen en
 AntennaPod zelf bouwen!
 
 ### 2. De podcast makers of hun uitgevers voegden de advertenties toe aan hun
+
 shownotes of audiobestand
 
 AntennaPod speelt podcasts af zoals ze door de makers zijn gepubliceerd. Als ze

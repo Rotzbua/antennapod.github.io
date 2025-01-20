@@ -45,9 +45,9 @@ die in diesem Beitrag beschrieben sind.
 Bei YouTube kann man den Feed eines Kanals abonnieren, aber:
 
 - AntennaPod kann die Videos nicht automatisch herunterladen, da YouTube dies
-nicht zulässt. Das Anzeigen von Werbung ist schließlich ihr Geschäftsmodell.
+  nicht zulässt. Das Anzeigen von Werbung ist schließlich ihr Geschäftsmodell.
 - Du wirst kein Bild haben, das mit deinem Abonnement verbunden ist, da YouTube
-es nicht in die Feeds aufnimmt.
+  es nicht in die Feeds aufnimmt.
 
 Allerdings ist es eine Möglichkeit, über neue Episoden informiert zu werden. Füge
 einfach die Adresse des Benutzers/Kanals

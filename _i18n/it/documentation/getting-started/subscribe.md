@@ -44,10 +44,10 @@ come indicato in questo post.
 YouTube ti permette di abbonarti a un canale, ma:
 
 - AntennaPod non può scaricare automaticamente i video, perché YouTube non lo
-permette. Mostrare inserzioni pubblicitarie è il loro modello di business,
-dopo tutto.
+  permette. Mostrare inserzioni pubblicitarie è il loro modello di business,
+  dopo tutto.
 - Non avrai un'immagine collegata al tuo abbonamento, poiché YouTube non la
-include nei feed.
+  include nei feed.
 
 Ma è un modo per essere avvisati dei nuovi episodi. Basta aggiungere l'URL
 dell'utente/canale (`https://www.youtube.com/user/USERNAME` o

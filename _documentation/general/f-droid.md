@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.general.f-droid
 layout: doc
-level: "2"
-group: "general"
-icon: "fa-solid fa-robot"
+level: '2'
+group: general
+icon: fa-solid fa-robot
 ---
 
 # {% t {{ page.title }} %}

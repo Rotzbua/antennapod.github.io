@@ -1,6 +1,7 @@
 AntennaPod is developed and maintained by individual volunteers and not represented by any legal entity. The community doesn't need your data, so the app and website are designed to be fully GDPR compliant. Read on to learn more.
 
 ## What data the AntennaPod app might collect, store and process
+
 The app only records data strictly necessary for the app to function. This includes for example the list of podcasts you follow, the app settings, and authentication data provided for specific podcasts or services (such as synchronisation services). The app does not include any advertisement libraries or any 3rd party tracking (analytics) code, such as Google Analytics.
 
 **All data provided and created when using the AntennaPod app is stored locally on your device. AntennaPod does not send or upload your data anywhere, except where strictly necessary for the functioning of the app.** Please see the second next section for the cases in which your data may be provided to third parties.
@@ -8,6 +9,7 @@ The app only records data strictly necessary for the app to function. This inclu
 The only case where your data from 3rd parties is handled, is when using a synchronisation service if enabled via the settings. In that case, the app may receive subscriptions and playback events provided by the service.
 
 ## App permissions
+
 The app requests the following privacy-relevant Android permissions:
 
 - Read from/write to Storage (Photos/Media/Files): The storage permission is used to open files that are not downloaded directly from within the app. It can also be used to import app settings or OPML files. The permission is only requested if you perform an action that requires reading from storage.
@@ -20,11 +22,13 @@ The app requests the following privacy-relevant Android permissions:
 - Google: If you have activated backup & reset in your phone settings (`Settings` » `Backup & Reset` » `Back up my data`), you should be aware that Android itself will periodically save a copy of your phone's data in Google's servers. This backup contains private information, including your WiFi passwords, messages and call history. It may also include data from AntennaPod and from other apps you use. The developers of AntennaPod do not have access to this data. For more information, see [Google's privacy policy](https://policies.google.com).
 
 ## What data might be collected, stored and processed from AntennaPod online services
+
 - The donation system: AntennaPod uses Open Collective, offered by Open Collective Inc (USA) & Open Collective Europe ASBL (Belgium). When you make a donation, these entities get access to certain data. For more information, see [Open Collective's privacy policy](https://opencollective.com/privacypolicy).
 - The website: AntennaPod's website is hosted via GitHub Pages. [GitHub's privacy policy](https://docs.github.com/en/github/site-policy/github-privacy-statement#github-pages) notices that "GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service." The website does not store any cookies on your machine, and no 3rd party tracking (analytics) or other services are used.
 - The forum: AntennaPod's forum uses the Discourse software, hosted by the core team. Please see the [forum's privacy policy](https://forum.antennapod.org/privacy) for which data is concerned.
 
 ## What data the AntennaPod core team may have access to
+
 The developers of AntennaPod do **not** have access to any of your information, except when you
 
 - actively share debugging information (either via email using the 'Crash Report' function, or via the Android crash reporting functionality of Google):
@@ -43,15 +47,18 @@ The developers of AntennaPod do **not** have access to any of your information, 
   - email address
 
 ## Updates of this Privacy Policy
+
 The developers may update this policy in the future. It is advisable to check the policy periodically for any changes. Changes to this Privacy Policy are effective when they are made on this document.
 
 This Privacy Policy was last updated on 2022-02-13.
 If you have questions, open an issue on GitHub or our forum.
 
 <!-- mdpo-disable-next-line -->
+
 {% if site.lang != 'en' %}
 
 This privacy policy is translated from English to help you understand how AntennaPod deals with the topic. In case of conflict between the the original and the translated version, the English one will prevail.
 
 <!-- mdpo-disable-next-line -->
+
 {% endif %}

@@ -65,20 +65,20 @@ und schaue dir unser
 AntennaPod existiert nicht in Isolation. Das Projekt ist auf viele andere
 angewiesen – wer dazu beiträgt, hilft auch AntennaPod dabei zu wachsen:
 
-* **Nextcloud Podcast** (Vue, PHP, Javascript) Im Dezember 2020 hat Jonas
-Heinrich [Nextcloud Podcast](https://apps.nextcloud.com/apps/podcast)
-erstellt. Sie ist bereits eine großartige Möglichkeit, Podcasts in einer selbst
-bereitgestellten Umgebung online zu abonnieren und zu hören. Ihre
-Weiterentwicklung und [Integration mit
-AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
-wäre eine sehr willkommene Ergänzung.
-* **gpodder.net** (Python, HTML) Das seit langem bestehende und freie
-[gpodder.net](https://gpodder.net/)-Projekt ermöglicht es Benutzern, ihre
-Podcast-Player zu verbinden und zu synchronisieren. Leider ist das Projekt ein
-Opfer seines eigenen Erfolges: Der Webserver ist oft nicht erreichbar und
-AntennaPod-Benutzer sehen Synchronisationsfehler. Jegliche Unterstützung für das
-Projekt und seine Betreuer ist willkommen, insbesondere bei [diesem
-API-Problem](https://github.com/gpodder/mygpo/issues/128).
+- **Nextcloud Podcast** (Vue, PHP, Javascript) Im Dezember 2020 hat Jonas
+  Heinrich [Nextcloud Podcast](https://apps.nextcloud.com/apps/podcast)
+  erstellt. Sie ist bereits eine großartige Möglichkeit, Podcasts in einer selbst
+  bereitgestellten Umgebung online zu abonnieren und zu hören. Ihre
+  Weiterentwicklung und [Integration mit
+  AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
+  wäre eine sehr willkommene Ergänzung.
+- **gpodder.net** (Python, HTML) Das seit langem bestehende und freie
+  [gpodder.net](https://gpodder.net/)-Projekt ermöglicht es Benutzern, ihre
+  Podcast-Player zu verbinden und zu synchronisieren. Leider ist das Projekt ein
+  Opfer seines eigenen Erfolges: Der Webserver ist oft nicht erreichbar und
+  AntennaPod-Benutzer sehen Synchronisationsfehler. Jegliche Unterstützung für das
+  Projekt und seine Betreuer ist willkommen, insbesondere bei [diesem
+  API-Problem](https://github.com/gpodder/mygpo/issues/128).
 
 # Nimm Kontakt auf!
 

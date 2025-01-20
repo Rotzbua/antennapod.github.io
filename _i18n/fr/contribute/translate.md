@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Aperçu des ressources dans Transifex
+```
+   Aperçu des ressources dans Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Aperçu des composants de Weblate
+```
+   Aperçu des composants de Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -102,13 +106,13 @@ susceptibles d'être téléchargées, toute aide est la bienvenue !
 
 # Prenez contact avec nous !
 
-* Voulez-vous donner **votre avis** sur les textes anglais ou sur l'une des
-traductions ?
-* Vous êtes **intéressé(e) pour aider** à la traduction mais n'êtes pas encore
-sûr(e) ? Ou vous êtes prêt(e) à vous lancer ?
-* Vous voulez contribuer et avez **besoin d'aide** ? Par exemple, parce que votre
-langue n'est pas encore disponible, ou parce que vous ne savez pas comment
-traduire quelque chose ?
+- Voulez-vous donner **votre avis** sur les textes anglais ou sur l'une des
+  traductions ?
+- Vous êtes **intéressé(e) pour aider** à la traduction mais n'êtes pas encore
+  sûr(e) ? Ou vous êtes prêt(e) à vous lancer ?
+- Vous voulez contribuer et avez **besoin d'aide** ? Par exemple, parce que votre
+  langue n'est pas encore disponible, ou parce que vous ne savez pas comment
+  traduire quelque chose ?
 
 Participez à la [section traduction de notre
 forum](https://forum.antennapod.org/c/translations/11) ! C'est le meilleur moyen

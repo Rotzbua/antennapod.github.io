@@ -48,12 +48,12 @@ Benutzen der App stören.
 
 Wir stehen für ein offenes Podcasting-Ökosystem. Ein Ökosystem, das
 
-* die Redefreiheit gewährleistet,
-* Podcaster für ihre kreative Arbeit belohnt,
-* verschont die Hörer vor unzugänglichen Inhalten in [Geschlossenen
-Plattformen](https://de.wikipedia.org/wiki/Geschlossene_Plattform), und
-* die Verwendung von und den Wechsel zwischen Anwendungen ohne
-[Lock-In-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) ermöglicht.
+- die Redefreiheit gewährleistet,
+- Podcaster für ihre kreative Arbeit belohnt,
+- verschont die Hörer vor unzugänglichen Inhalten in [Geschlossenen
+  Plattformen](https://de.wikipedia.org/wiki/Geschlossene_Plattform), und
+- die Verwendung von und den Wechsel zwischen Anwendungen ohne
+  [Lock-In-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) ermöglicht.
 
 In der Praxis bedeutet das, dass du jeden beliebigen RSS-Feed abonnieren kannst,
 dass wir es dir leicht machen, Podcaster (finanziell) zu unterstützen, und dass

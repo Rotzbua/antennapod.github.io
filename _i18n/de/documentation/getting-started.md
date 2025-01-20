@@ -5,29 +5,29 @@ listen to them or not. If an episode is in the inbox, it means that you have not
 yet decided what to do with the episode.
 
 - If you are not interested in an episode, just swipe it away to remove it from
-the inbox. The episode still stays marked as unplayed and you can find it on
-the `Episodes` page, as well as on the podcast's page.
+  the inbox. The episode still stays marked as unplayed and you can find it on
+  the `Episodes` page, as well as on the podcast's page.
 - Wenn du dich für die Episode interessierst, kannst du je nach deinem
-Hörverhalten eines von zwei Dingen tun.
-   - Download the episode. When downloading, AntennaPod also automatically adds the
-episode to the queue and removes it from the inbox. There is a setting if you
-want new episodes to be enqueued in the back, front or after the currently
-playing episode. Downloading is the main way AntennaPod was originally designed
-to be used but as streaming is becoming more and more popular, you can also use
-the second option.
-   - Just add the episode to the queue. AntennaPod automatically removes it from the
-inbox and inserts it into the queue. You can later directly play the episode
-without having to download, so it does not take up space. Think: Streaming like
-videos on YouTube. The disadvantage is that it will not be available offline,
-uses up your mobile data connection when you are on the run, and makes fast
-forwarding a little bit slower.
+  Hörverhalten eines von zwei Dingen tun.
+  - Download the episode. When downloading, AntennaPod also automatically adds the
+    episode to the queue and removes it from the inbox. There is a setting if you
+    want new episodes to be enqueued in the back, front or after the currently
+    playing episode. Downloading is the main way AntennaPod was originally designed
+    to be used but as streaming is becoming more and more popular, you can also use
+    the second option.
+  - Just add the episode to the queue. AntennaPod automatically removes it from the
+    inbox and inserts it into the queue. You can later directly play the episode
+    without having to download, so it does not take up space. Think: Streaming like
+    videos on YouTube. The disadvantage is that it will not be available offline,
+    uses up your mobile data connection when you are on the run, and makes fast
+    forwarding a little bit slower.
 - If you are done playing, AntennaPod marks the episode as played and removes it
-from the queue. There is a setting to also automatically delete the download
-after playing. You can find a list of all episodes that are still downloaded to
-your device (whether they are in the queue or not) on the `Downloads` page.
+  from the queue. There is a setting to also automatically delete the download
+  after playing. You can find a list of all episodes that are still downloaded to
+  your device (whether they are in the queue or not) on the `Downloads` page.
 - If you like an episode and are thinking about listening to it again, you can
-also mark it as favorite. You can filter the `Episodes` page to show only your
-favorites and (by default) AntennaPod will not delete favorites after playing.
+  also mark it as favorite. You can filter the `Episodes` page to show only your
+  favorites and (by default) AntennaPod will not delete favorites after playing.
 
 In case you are subscribed to a really great podcast where you know from the
 beginning that all episodes will be great, you can use the auto-download

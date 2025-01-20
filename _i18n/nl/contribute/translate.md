@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Overzicht van de hulpbronnen in Transifex
+```
+   Overzicht van de hulpbronnen in Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Overzicht van componenten in Weblate
+```
+   Overzicht van componenten in Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -99,12 +103,12 @@ welkom!
 
 # Neem contact op!
 
-* Wil je **feedback** geven op de Engelse teksten of een van de vertalingen?
-* Ben je **geïnteresseerd in helpen** met vertalen, maar weet je het nog niet
-zeker? Of ben je klaar om te beginnen?
-* Wil je (gaan) bijdragen en **heb je ondersteuning nodig**? Bijvoorbeeld omdat
-jouw taal nog niet beschikbaar is, of omdat je niet zeker weet hoe je iets
-moet vertalen?
+- Wil je **feedback** geven op de Engelse teksten of een van de vertalingen?
+- Ben je **geïnteresseerd in helpen** met vertalen, maar weet je het nog niet
+  zeker? Of ben je klaar om te beginnen?
+- Wil je (gaan) bijdragen en **heb je ondersteuning nodig**? Bijvoorbeeld omdat
+  jouw taal nog niet beschikbaar is, of omdat je niet zeker weet hoe je iets
+  moet vertalen?
 
 Laat van je horen in de [vertaal-sectie op ons
 forum](https://forum.antennapod.org/c/translations/11)! Dat is de beste manier

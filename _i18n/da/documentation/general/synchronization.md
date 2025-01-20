@@ -1,16 +1,20 @@
 {% capture img-devices %} {% include image.html alt="
 
-       enheder
+```
+   enheder
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="gpodder-devices.png" %} {% endcapture %}
 
 {% capture img-synchronize %} {% include image.html alt="
 
-       synkroniser
+```
+   synkroniser
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="gpodder-synchronize.png" %} {%
 endcapture %}
@@ -20,25 +24,25 @@ AntennaPod-installationer samt andre (desktop-)apps. For at konfigurere
 synkronisering skal du bruge en server - det centrale punkt, hvor dine data
 deles med andre enheder. Du har flere muligheder for dette:
 
-* [gpodder.net](https://gpodder.net/) tilbyder en gratis
-gPodder-synkroniseringsserver, som **alle kan tilmelde sig**. Desværre er
-denne server på grund af tjenestens popularitet og dens begrænsede finansiering
-ofte overbelastet, hvilket fører til fejl i AntennaPod.
-* Mere teknisk interesserede brugere opfordres kraftigt til at **selv at hoste en
-synkroniseringsserver**. En selvhostet server er mere pålidelig og er med til
-at mindske belastningen på de gratis, offentlige tjenester. Der er flere
-muligheder: [Nextcloud](https://nextcloud.com/install/#instructions-server) med
-[gPodder Sync app](https://apps.nextcloud.com/apps/gpoddersync), en fuld
-[gPodder](https://gpoddernet.readthedocs.io/en/latest/dev/installation.html)
-server eller [Micro GPodder
-server](https://github.com/bohwaz/micro-gpodder-server).
+- [gpodder.net](https://gpodder.net/) tilbyder en gratis
+  gPodder-synkroniseringsserver, som **alle kan tilmelde sig**. Desværre er
+  denne server på grund af tjenestens popularitet og dens begrænsede finansiering
+  ofte overbelastet, hvilket fører til fejl i AntennaPod.
+- Mere teknisk interesserede brugere opfordres kraftigt til at **selv at hoste en
+  synkroniseringsserver**. En selvhostet server er mere pålidelig og er med til
+  at mindske belastningen på de gratis, offentlige tjenester. Der er flere
+  muligheder: [Nextcloud](https://nextcloud.com/install/#instructions-server) med
+  [gPodder Sync app](https://apps.nextcloud.com/apps/gpoddersync), en fuld
+  [gPodder](https://gpoddernet.readthedocs.io/en/latest/dev/installation.html)
+  server eller [Micro GPodder
+  server](https://github.com/bohwaz/micro-gpodder-server).
 
 ## Aktivér synkronisering via Nextcloud
 
 1. Hvis du har en Nextcloud-konto, skal du installere gPodder Sync-appen eller
-bede din serveradministrator om at gøre det
+   bede din serveradministrator om at gøre det
 1. Gå til `Indstillinger` » `Synkronisering` i AntennaPod, og tryk på
-`Vælg synkroniseringsudbyder`
+   `Vælg synkroniseringsudbyder`
 1. Vælg 'Nextcloud'
 1. Indtast 'Serveradresse' (serverens URL- eller IP-adresse), og tryk på `Fortsæt`
 1. Log ind i det browservindue, der åbnes, og godkend AntennaPod
@@ -46,14 +50,14 @@ bede din serveradministrator om at gøre det
 ## Aktivér synkronisering via gPodder
 
 1. Opret en konto på serveren www.gpodder.net eller på din egen server
-1.  When you have an account, log in on the webserver and create a device under
-`Subscriptions` » `Devices` for each client that you use:<br />{{ img-devices
-| strip }}
+1. When you have an account, log in on the webserver and create a device under
+   `Subscriptions` » `Devices` for each client that you use:<br />{{ img-devices
+   | strip }}
 1. Når du har tilføjet enhederne til din konto, skal du forbinde dem ved hjælp af
-knappen "Konfigurer". På denne måde holder gpodder.net automatisk de
-aktiverede enheder synkroniseret.
+   knappen "Konfigurer". På denne måde holder gpodder.net automatisk de
+   aktiverede enheder synkroniseret.
 
-  <br />{{ img-synchronize | strip }} 4. Go to `Settings` » `Synchronization` in
+<br />{{ img-synchronize | strip }} 4. Go to `Settings` » `Synchronization` in
 AntennaPod and tap `Choose synchronization provider` 5. Select 'gPodder' 6.
 Enter the 'Server address' (e.g. www.gpodder.net) and tap `Proceed to login` 7.
 Enter the 'Username' and 'Password' and tap `Log in` 8. Select the device that

@@ -41,9 +41,9 @@ beskrevet i dette indlæg.
 YouTube giver dig mulighed for at abonnere på en kanals feed, men:
 
 - AntennaPod kan ikke overføre videoerne automatisk, da YouTube ikke tillader
-det. Det er trods alt deres forretningsmodel at vise reklamer.
+  det. Det er trods alt deres forretningsmodel at vise reklamer.
 - Du vil ikke få et billede forbundet med dit abonnement, da YouTube ikke
-inkluderer det i feeds.
+  inkluderer det i feeds.
 
 Men det er en måde at få besked om nye afsnit på. Du skal blot tilføje
 brugerens/kanalens URL (`https://www.youtube.com/user/USERNAME` eller

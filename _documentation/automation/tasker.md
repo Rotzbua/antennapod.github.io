@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.automation.tasker
 layout: doc
-level: "2"
-group: "automation"
-icon: "fa-solid fa-robot"
+level: '2'
+group: automation
+icon: fa-solid fa-robot
 ---
 
 # {% t {{ page.title }} %}

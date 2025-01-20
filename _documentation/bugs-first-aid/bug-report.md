@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.bugs-first-aid.bug-report
 layout: doc
-level: "2"
-group: "bugs-first-aid"
-icon: "fa-solid fa-bug"
+level: '2'
+group: bugs-first-aid
+icon: fa-solid fa-bug
 order: 20
 ---
 

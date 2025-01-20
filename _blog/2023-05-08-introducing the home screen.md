@@ -1,8 +1,9 @@
 ---
 title: Welcome Home! 🏠 Introducing AntennaPod’s new default screen
-excerpt: Let's show you your new home — one of the main new features in AntennaPod 3.0.
-date: "2023-05-08 08:20:00"
-image: "2023/v3-home.jpg"
+excerpt: Let's show you your new home — one of the main new features in AntennaPod
+  3.0.
+date: '2023-05-08 08:20:00'
+image: 2023/v3-home.jpg
 author: loucasal
 layout: blog
 guid: 2QUY-1288-Q8NP-HU3N-PSBY
@@ -17,22 +18,22 @@ In addition to making navigation easier, our goal was to make the app experience
 
 The Home screen currently contains five sections, each of which displays episodes to interact with directly, but also provides a shortcut to the related screen (e.g. your queue). Let's look at each of the sections:
 
-1.  The first section allows you to quickly and easily '**continue listening**' queued episodes, beginning with those you have already started listening to, but haven't finished just yet.
+1. The first section allows you to quickly and easily '**continue listening**' queued episodes, beginning with those you have already started listening to, but haven't finished just yet.
 
-2.  In the second section you will '**see what's new**', listing the latest episodes that have landed in your [Inbox](/blog/2022/10/2-7-release) when refreshing subscriptions.
+1. In the second section you will '**see what's new**', listing the latest episodes that have landed in your [Inbox](/blog/2022/10/2-7-release) when refreshing subscriptions.
 
-3.  The third section allows you to '**get surprised**' with a random selection of episodes from your subscriptions you haven't listened to yet. *Pro tip*: if you don't see anything you feel like listening now, tap the arrow button to refresh the selection.
+1. The third section allows you to '**get surprised**' with a random selection of episodes from your subscriptions you haven't listened to yet. *Pro tip*: if you don't see anything you feel like listening now, tap the arrow button to refresh the selection.
 
-4.  The fourth section -- '**check your classics**' -- allows you to quickly open your all-time most-listened subscriptions. *Warning*: this might take you on a trip down memory lane.
+1. The fourth section -- '**check your classics**' -- allows you to quickly open your all-time most-listened subscriptions. *Warning*: this might take you on a trip down memory lane.
 
-5.  In the fifth and final section you can '**manage downloads**': that is to say, interact with the episodes you downloaded on your device.
+1. In the fifth and final section you can '**manage downloads**': that is to say, interact with the episodes you downloaded on your device.
 
 {% include image.html
-   alt="Visual explainer of the Home screen features."
-   loc="/assets/images/blog/2023"
-   file="home-screen-showcase.png"
-   max-width="22rem"
-   class="float-md-right ml-md-3 w-100"
+alt="Visual explainer of the Home screen features."
+loc="/assets/images/blog/2023"
+file="home-screen-showcase.png"
+max-width="22rem"
+class="float-md-right ml-md-3 w-100"
 %}
 
 ## Configuring your Home screen to best suit your needs

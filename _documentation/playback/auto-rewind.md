@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.playback.auto-rewind
 layout: doc
-level: "2"
-group: "playback"
-icon: "fa-solid fa-backward"
+level: '2'
+group: playback
+icon: fa-solid fa-backward
 ---
 
 # {% t {{ page.title }} %}

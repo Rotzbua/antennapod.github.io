@@ -65,21 +65,21 @@ web](https://github.com/AntennaPod/antennapod.github.io).
 AntennaPod non vive in isolamento, ma si basa su molti altri progetti.
 Contribuire a questi significa aiutare AntennaPod a prosperare:
 
-* **App di Podcast Nextcloud** (Vue, PHP, Javascript) Nel dicembre 2020 Jonas
-Heinrich ha creato l'app di [Podcast di
-Nextcloud](https://apps.nextcloud.com/apps/podcast), che è già ottima per
-iscriversi e ascoltare i podcast online in un ambiente "self-hosted". Il suo
-ulteriore sviluppo e [l'integrazione con
-AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
-sarebbero un'aggiunta molto gradita.
-* **gpodder.net** (Python, HTML) L'ormai storico e libero progetto
-[gpodder.net](https://gpodder.net/) permette agli utenti di collegare e
-sincronizzare i loro lettori di podcast. Purtroppo il progetto è vittima del suo
-stesso successo: il server web spesso non è disponibile e gli utenti di
-AntennaPod riscontrano errori di sincronizzazione. Qualsiasi contributo e
-sostegno al progetto e ai suoi manutentori è benvenuto, in particolare per
-quanto riguarda [questo problema di
-API](https://github.com/gpodder/mygpo/issues/128).
+- **App di Podcast Nextcloud** (Vue, PHP, Javascript) Nel dicembre 2020 Jonas
+  Heinrich ha creato l'app di [Podcast di
+  Nextcloud](https://apps.nextcloud.com/apps/podcast), che è già ottima per
+  iscriversi e ascoltare i podcast online in un ambiente "self-hosted". Il suo
+  ulteriore sviluppo e [l'integrazione con
+  AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
+  sarebbero un'aggiunta molto gradita.
+- **gpodder.net** (Python, HTML) L'ormai storico e libero progetto
+  [gpodder.net](https://gpodder.net/) permette agli utenti di collegare e
+  sincronizzare i loro lettori di podcast. Purtroppo il progetto è vittima del suo
+  stesso successo: il server web spesso non è disponibile e gli utenti di
+  AntennaPod riscontrano errori di sincronizzazione. Qualsiasi contributo e
+  sostegno al progetto e ai suoi manutentori è benvenuto, in particolare per
+  quanto riguarda [questo problema di
+  API](https://github.com/gpodder/mygpo/issues/128).
 
 # Mettiti in contatto!
 

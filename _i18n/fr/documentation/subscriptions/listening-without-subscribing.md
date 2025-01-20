@@ -8,7 +8,7 @@ podcast. Les principales différences avec l'ajout d'un épisode à la liste de
 lecture sans abonnement sont les suivantes :
 
 - La lecture de l'épisode commence automatiquement (cela devient l'épisode en
-cours)
+  cours)
 - Il n'est pas possible de passer à un autre épisode et d'y revenir plus tard
 
 Pour lire un épisode :

@@ -27,9 +27,11 @@ url](https://play.google.com/apps/testing/de.danoeh.antennapod).
 
 {% include image.html alt= "
 
-     Word een bètatester - bevestigingsvenster in Google Play
+```
+ Word een bètatester - bevestigingsvenster in Google Play
 
-     "
+ "
+```
 
 loc="/assets/images/documentation" file="project-beta.png" %}
 

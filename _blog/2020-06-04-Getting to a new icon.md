@@ -1,8 +1,8 @@
 ---
 title: Getting to a new icon
 excerpt: Starting the process to get to a new icon
-date: "2020-06-04 12:00:00"
-image: "2020/design.jpg"
+date: '2020-06-04 12:00:00'
+image: 2020/design.jpg
 author: keunes
 layout: blog
 guid: https://antennapod.org/blog/2020/06/getting-to-a-new-icon
@@ -79,4 +79,4 @@ Of course you'd be acknowledged by name on the site and in the app's 'About' sec
 
 ## Interested? Contact us!
 
-Thank you for considering support to this open source app! Reply to the [ad on opensourcedesign.net](https://opensourcedesign.net/jobs/jobs/2020-05-26-new-logo-to-go-with-major-app-update) or get in touch at [email address removed].
+Thank you for considering support to this open source app! Reply to the [ad on opensourcedesign.net](https://opensourcedesign.net/jobs/jobs/2020-05-26-new-logo-to-go-with-major-app-update) or get in touch at \[email address removed\].

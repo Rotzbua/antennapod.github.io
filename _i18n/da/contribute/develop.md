@@ -63,20 +63,20 @@ nu.
 AntennaPod eksisterer ikke i isolation. Projektet er afhængig af mange andre
 projekter – at bidrage til dem hjælper også AntennaPod med at trives:
 
-* **Nextcloud Podcast-app** (Vue, PHP, Javascript) I december 2020 oprettede
-Jonas Heinrich [Nextcloud
-Podcast-appen](https://apps.nextcloud.com/apps/podcast). Den er allerede en god
-måde at abonnere på og lytte til dine podcasts online i et selvhostet miljø.
-Dens videreudvikling og [integration med
-AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
-ville være en meget velkommen tilføjelse.
-* **gpodder.net** (Python, HTML) Det langvarige og libre
-[gpodder.net](https://gpodder.net/) projekt giver brugerne mulighed for at
-forbinde og synkronisere deres podcast-afspillere. Desværre er projektet et
-offer for sin egen succes: webserveren er ofte utilgængelig, og
-AntennaPod-brugere ser synkroniseringsfejl. Enhver støtte til projektet og dets
-vedligeholdere er velkommen, især i forbindelse med [dette
-API-problem](https://github.com/gpodder/mygpo/issues/128).
+- **Nextcloud Podcast-app** (Vue, PHP, Javascript) I december 2020 oprettede
+  Jonas Heinrich [Nextcloud
+  Podcast-appen](https://apps.nextcloud.com/apps/podcast). Den er allerede en god
+  måde at abonnere på og lytte til dine podcasts online i et selvhostet miljø.
+  Dens videreudvikling og [integration med
+  AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
+  ville være en meget velkommen tilføjelse.
+- **gpodder.net** (Python, HTML) Det langvarige og libre
+  [gpodder.net](https://gpodder.net/) projekt giver brugerne mulighed for at
+  forbinde og synkronisere deres podcast-afspillere. Desværre er projektet et
+  offer for sin egen succes: webserveren er ofte utilgængelig, og
+  AntennaPod-brugere ser synkroniseringsfejl. Enhver støtte til projektet og dets
+  vedligeholdere er velkommen, især i forbindelse med [dette
+  API-problem](https://github.com/gpodder/mygpo/issues/128).
 
 # Kontakt os!
 

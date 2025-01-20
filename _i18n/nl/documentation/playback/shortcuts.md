@@ -5,25 +5,25 @@ audiokanaal voor media (en, bijvoorbeeld, niet op die voor notificaties).
 
 ### Alle schermen (behalve de videospeler en de instellingen)
 
-| Toets | Actie |
-| --- | --- |
-| `P` | Afspelen/Pauzeren |
-| `J`/`A`/`,` | Terugspoelen |
-| `K`/`D`/`.` | Vooruitspoelen |
-| `+`/`W` | Verhoog volume |
-| `-`/`S` | Verlaag volume |
-| `M` | Dempen/dempen opheffen (wisselen) - alleen op Android 6 en hoger |
+| Toets       | Actie                                                            |
+| ----------- | ---------------------------------------------------------------- |
+| `P`         | Afspelen/Pauzeren                                                |
+| `J`/`A`/`,` | Terugspoelen                                                     |
+| `K`/`D`/`.` | Vooruitspoelen                                                   |
+| `+`/`W`     | Verhoog volume                                                   |
+| `-`/`S`     | Verlaag volume                                                   |
+| `M`         | Dempen/dempen opheffen (wisselen) - alleen op Android 6 en hoger |
 
 ### Videospeler
 
-| Toets | Actie |
-| --- | --- |
-| `P`/`Spatie` | Afspelen/Pauzeren |
-| `J`/`A`/`,` | Terugspoelen |
-| `K`/`D`/`.` | Vooruitspoelen |
-| `F`/`Esc` | Videospeler afsluiten |
-| `i` | Ga naar beeld-in-beeld modus |
-| `0`-`9` | Ga naar 0-90% van de video |
-| `+`/`W` | Verhoog volume |
-| `-`/`S` | Verlaag volume |
-| `M` | Dempen/dempen opheffen (wisselen) - alleen op Android 6 en hoger |
+| Toets        | Actie                                                            |
+| ------------ | ---------------------------------------------------------------- |
+| `P`/`Spatie` | Afspelen/Pauzeren                                                |
+| `J`/`A`/`,`  | Terugspoelen                                                     |
+| `K`/`D`/`.`  | Vooruitspoelen                                                   |
+| `F`/`Esc`    | Videospeler afsluiten                                            |
+| `i`          | Ga naar beeld-in-beeld modus                                     |
+| `0`-`9`      | Ga naar 0-90% van de video                                       |
+| `+`/`W`      | Verhoog volume                                                   |
+| `-`/`S`      | Verlaag volume                                                   |
+| `M`          | Dempen/dempen opheffen (wisselen) - alleen op Android 6 en hoger |

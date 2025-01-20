@@ -4,7 +4,7 @@ volgen. Je kunt niet instellen hoeveel wordt teruggespoeld; dat hangt af van hoe
 lang een aflevering op pauze heeft gestaan.
 
 | Tijd sinds laatste weergave | Tijdsuur terugspoelen |
-| --- | --- |
-| Meer dan 1 dag | 20 seconden |
-| Meer dan 1 uur | 10 seconden |
-| Meer dan 1 minuut | 3 seconden |
+| --------------------------- | --------------------- |
+| Meer dan 1 dag              | 20 seconden           |
+| Meer dan 1 uur              | 10 seconden           |
+| Meer dan 1 minuut           | 3 seconden            |

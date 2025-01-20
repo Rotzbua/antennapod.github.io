@@ -4,7 +4,7 @@ tilbage kan ikke indstilles og afhænger af, hvor længe et afsnit har været sa
 på pause.
 
 | Tid siden sidste afspilning | Varighed af tilbagespoling |
-| --- | --- |
-| Mere end 1 dag | 20 sekunder |
-| Mere end 1 time | 10 sekunder |
-| Mere end 1 minut | 3 sekunder |
+| --------------------------- | -------------------------- |
+| Mere end 1 dag              | 20 sekunder                |
+| Mere end 1 time             | 10 sekunder                |
+| Mere end 1 minut            | 3 sekunder                 |

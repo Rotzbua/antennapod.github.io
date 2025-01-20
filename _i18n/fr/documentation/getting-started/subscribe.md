@@ -45,10 +45,10 @@ telles qu'elles sont présentées dans cet article.
 YouTube vous permet de vous abonner au flux d’une chaîne, mais.. :
 
 - AntennaPod ne peut pas télécharger automatiquement les vidéos, car YouTube ne
-le permet pas. La diffusion de publicités est leur modèle économique après
-tout.
+  le permet pas. La diffusion de publicités est leur modèle économique après
+  tout.
 - Vous n'aurez pas d'image liée à votre abonnement, car YouTube ne l'inclut pas
-dans les flux.
+  dans les flux.
 
 Mais c'est un moyen d'être notifié des nouveaux épisodes. Il suffit d'ajouter
 l'URL de l'utilisateur/chaîne (`https://www.youtube.com/user/USERNAME` ou

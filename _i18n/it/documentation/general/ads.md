@@ -20,6 +20,7 @@ ottenere l'ultima versione da
 AntennaPod!
 
 ### 2. I creatori del podcast o la società di hosting hanno aggiunto le pubblicità
+
 alle loro note o al file audio
 
 AntennaPod riproduce i podcast esattamente come sono stati pubblicati dai loro

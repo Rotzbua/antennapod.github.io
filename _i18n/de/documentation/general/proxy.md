@@ -3,10 +3,10 @@ RSS- und Suchanfragen) über einen Proxy oder das Tor-Netzwerk leiten zu lassen.
 Dies kann potenziell zwei Vorteile bieten:
 
 - Datenschutz: Je nach Art des Proxy-Dienstes kann dein
-Download-/Streaming-Verhalten vor Podcast-Hosts geschützt werden
+  Download-/Streaming-Verhalten vor Podcast-Hosts geschützt werden
 - Zugang: Wenn ein Podcast-Host das Herunterladen von Inhalten aus dem Ausland
-verhindert (auf der Grundlage der IP-Adresse), kannst du durch Einrichtung
-eines Proxys mit dem Herkunftsland dennoch auf die Inhalte zugreifen
+  verhindert (auf der Grundlage der IP-Adresse), kannst du durch Einrichtung
+  eines Proxys mit dem Herkunftsland dennoch auf die Inhalte zugreifen
 
 Du findest diese Option unter `Einstellungen` » `Netzwerk` » `Proxy`.
 

@@ -13,6 +13,6 @@ erforderlich.
 
 - Öffne die Android Auto-Einstellungen.
 - Aktiviere die `Entwicklereinstellungen` durch 10-maliges Drücken der
-Versionsnummer.
+  Versionsnummer.
 - Öffne das 3-Punkte-Menü und rufe die Entwicklereinstellungen auf.
 - Aktiviere `Unbekannte Quellen`.

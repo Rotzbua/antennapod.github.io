@@ -1,9 +1,10 @@
 ---
-title: "Needs: Decision - AntennaPod UX discussions"
-summary: A bi-weekly meeting where core contributors discuss feature requests & make tough choices.
+title: 'Needs: Decision - AntennaPod UX discussions'
+summary: A bi-weekly meeting where core contributors discuss feature requests & make
+  tough choices.
 permalink: /events/:slug
 uid: TDL9-28GB-50YV-P6X4-D48Y
-sequence: 
+sequence:
 # Optional. Defaults to 0 if left empty. Should be increased with 1 on every big event edit.
 timezone: Europe/Brussels
 datetime-start: 2023-12-27 21:00
@@ -12,9 +13,9 @@ recurring: yes
 recurrence-text: 2nd-4th-wednesday
 recurrence-rule: FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
 recurrence-exceptions:
-- 2023-01-10
-- 2024-01-24
-recurrence-additions: 
+  - 2023-01-10
+  - 2024-01-24
+recurrence-additions:
 # List of date-times on which the event is additionally taking place. Format:
 # - start: yyyy-mm-dd hh:mm
 #   end: yyyy-mm-dd hh:mm

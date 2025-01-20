@@ -43,12 +43,12 @@ necesitamos anunciantes que te molesten mientras navegas por la aplicación.
 
 Defendemos un ecosistema de podcasting abierto. Un ecosistema que
 
-* apoya la libertad de expresión,
-* premia a los podcasters por su trabajo creativo,
-* evita a los oyentes contenidos inaccesibles en [jardines
-amurallados](https://en.wikipedia.org/wiki/Walled_garden_(technology)), y
-* permite a los usuarios utilizar y cambiar entre aplicaciones sin [depender de
-ningún servicio](https://en.wikipedia.org/wiki/Vendor_lock-in).
+- apoya la libertad de expresión,
+- premia a los podcasters por su trabajo creativo,
+- evita a los oyentes contenidos inaccesibles en [jardines
+  amurallados](<https://en.wikipedia.org/wiki/Walled_garden_(technology)>), y
+- permite a los usuarios utilizar y cambiar entre aplicaciones sin [depender de
+  ningún servicio](https://en.wikipedia.org/wiki/Vendor_lock-in).
 
 En la práctica, esto significa que puedes suscribirte a cualquier canal RSS que
 exista, que te facilitamos apoyar a los podcasters (financieramente) y que

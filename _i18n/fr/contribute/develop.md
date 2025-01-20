@@ -69,20 +69,20 @@ Web](https://github.com/AntennaPod/antennapod.github.io) dès maintenant.
 AntennaPod ne fonctionne pas en autarcie. Le projet s'appuie sur de nombreux
 autres projets. Y contribuer signifie aider AntennaPod à prospérer :
 
-* **Application de Podcast Nextcloud** (Vue, PHP, Javascript) En décembre 2020
-Jonas Heinrich a créé l'[application de Podcast
-Nextcloud](https://apps.nextcloud.com/apps/podcast). C'est déjà un excellent
-moyen de s'abonner et d'écouter vos podcasts en ligne, dans un environnement
-auto-hébergé. Son développement et son [intégration avec
-AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
-seraient un ajout très apprécié.
-* **gpodder.net** (Python, HTML) Le projet libre et de longue date
-[gpodder.net](https://gpodder.net/) permet aux utilisateurs de connecter et de
-synchroniser leurs lecteurs de podcasts. Malheureusement, le projet est victime
-de son propre succès : le serveur web est souvent indisponible et les
-utilisateurs d'AntennaPod voient des erreurs de synchronisation. Toute aide au
-projet et à ses responsables est la bienvenue, en particulier en ce qui concerne
-[ce problème d'API](https://github.com/gpodder/mygpo/issues/128).
+- **Application de Podcast Nextcloud** (Vue, PHP, Javascript) En décembre 2020
+  Jonas Heinrich a créé l'[application de Podcast
+  Nextcloud](https://apps.nextcloud.com/apps/podcast). C'est déjà un excellent
+  moyen de s'abonner et d'écouter vos podcasts en ligne, dans un environnement
+  auto-hébergé. Son développement et son [intégration avec
+  AntennaPod](https://git.project-insanity.org/onny/nextcloud-app-podcast/-/issues/103)
+  seraient un ajout très apprécié.
+- **gpodder.net** (Python, HTML) Le projet libre et de longue date
+  [gpodder.net](https://gpodder.net/) permet aux utilisateurs de connecter et de
+  synchroniser leurs lecteurs de podcasts. Malheureusement, le projet est victime
+  de son propre succès : le serveur web est souvent indisponible et les
+  utilisateurs d'AntennaPod voient des erreurs de synchronisation. Toute aide au
+  projet et à ses responsables est la bienvenue, en particulier en ce qui concerne
+  [ce problème d'API](https://github.com/gpodder/mygpo/issues/128).
 
 # Prenez contact avec nous !
 

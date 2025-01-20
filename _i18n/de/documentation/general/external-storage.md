@@ -11,6 +11,6 @@ Speicher erkennen. Entweder ist die Karte nicht korrekt eingebunden oder dein
 Telefonhersteller hat die Hardware falsch konfiguriert.
 
 Wenn du Android 6+ (Marshmallow oder neuer) verwendest, kannst du versuchen die
-SD-Karte, als internen Speicher zu [formatieren](https://lmgtfy.com/?
+SD-Karte, als internen Speicher zu \[formatieren\](https://lmgtfy.com/?
 q=android+6+sd+card+internal+storage). Andernfalls können wir nichts tun, um das
 Problem zu beheben.

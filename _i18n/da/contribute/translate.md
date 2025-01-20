@@ -1,17 +1,21 @@
 {% capture img-transifex %} {% include image.html alt="
 
-       Oversigt over ressourcer i Transifex
+```
+   Oversigt over ressourcer i Transifex
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-resources-transifex.png" %}
 {% endcapture %}
 
 {% capture img-weblate %} {% include image.html alt="
 
-       Oversigt over komponenter i Weblate
+```
+   Oversigt over komponenter i Weblate
 
-       "
+   "
+```
 
 loc="/assets/images/documentation" file="translation-components-weblate.png" %}
 {% endcapture %}
@@ -62,7 +66,7 @@ under `Indstillinger` » `Om` » `Bidragydere`.
 # Hjemmesiden
 
 Af flere grunde (beskrevet i et [blogindlæg om oversættelser af
-websteder](/blog/2022/01/website-oversættelser)) bruger vi et andet
+websteder](/blog/2022/01/website-overs%C3%A6ttelser)) bruger vi et andet
 oversættelsessystem til vores hjemmeside:
 [Weblate](https://hosted.weblate.org/projects/antennapod/). Alle kan tilmelde
 sig der og begynde at bidrage. I Weblate's dokumentation finder du [alt, hvad du
@@ -97,13 +101,13 @@ app-butiksannoncer bliver downloadet, er hjælp meget velkommen!
 
 # Kontakt os!
 
-* Ønsker du at give **feedback** på de engelske tekster eller på nogle af
-oversættelserne?
-* Er du ** interesseret i at hjælpe** med oversættelser, men er du ikke sikker
-endnu? Eller er du klar til at gå gang?
-* Bidrager du (gerne) og **har du brug for støtte**? F.eks. fordi dit sprog endnu
-ikke er tilgængeligt, eller fordi du ikke er sikker på, hvordan du skal
-oversætte noget?
+- Ønsker du at give **feedback** på de engelske tekster eller på nogle af
+  oversættelserne?
+- Er du \*\* interesseret i at hjælpe\*\* med oversættelser, men er du ikke sikker
+  endnu? Eller er du klar til at gå gang?
+- Bidrager du (gerne) og **har du brug for støtte**? F.eks. fordi dit sprog endnu
+  ikke er tilgængeligt, eller fordi du ikke er sikker på, hvordan du skal
+  oversætte noget?
 
 Sig til inde på [oversættelsessektionen på vores
 forum](https://forum.antennapod.org/c/translations/11)! Det er den bedste måde

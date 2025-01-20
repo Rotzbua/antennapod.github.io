@@ -18,6 +18,7 @@ den seneste version på [GitHub](https://github.com/AntennaPod/AntennaPod/) og
 selv bygge AntennaPod!
 
 ### 2. Udgiverne af podcasten tilføjede annoncerne til deres afsnitsbeskrivelse eller
+
 lydfil
 
 AntennaPod afspiller podcasts, nøjagtigt som de blev udgivet af producenterne.

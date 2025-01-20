@@ -1,10 +1,10 @@
 ---
 title: documentation.categories.playback.title
 layout: doc
-level: "1"
-group: "playback"
-icon: "fa-solid fa-play"
-order: "30"
+level: '1'
+group: playback
+icon: fa-solid fa-play
+order: '30'
 ---
 
 # {% t {{ page.title }} %}

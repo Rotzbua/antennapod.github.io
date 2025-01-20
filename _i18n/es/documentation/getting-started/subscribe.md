@@ -45,9 +45,9 @@ que se describen en esta entrada.
 YouTube permite que te suscribas al feed de un canal, pero:
 
 - AntennaPod no puede descargar vídeos de manera automática, debido a que Youtube
-no lo permite. Al fin y al cabo, mostrar anuncios es su modelo de negocios.
+  no lo permite. Al fin y al cabo, mostrar anuncios es su modelo de negocios.
 - No tendrás una imagen enlazada a tu suscripción, ya que YouTube no las incluye
-en sus canales.
+  en sus canales.
 
 Pero es una manera de recibir notificaciones sobre nuevos episodios. Simplemente
 añade la URL del usuario/canal (`https://youtube.com/user/USERNAME` o

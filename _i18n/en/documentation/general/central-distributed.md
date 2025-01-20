@@ -1,7 +1,7 @@
 There are basically two ways how to make a podcast app:
 
 1. **Central**: There is a central server (run by the company that develops the app) that checks for new episodes and then delivers them to you.
-2. **Distributed**: The app itself checks new episodes, directly from the podcast publishers.
+1. **Distributed**: The app itself checks new episodes, directly from the podcast publishers.
 
 AntennaPod uses method 2. It has both its advantages and disadvantages:
 

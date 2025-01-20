@@ -1,17 +1,21 @@
 {% capture img-GP %} {% include image.html alt="
 
-       Scaricala da Google Play
+```
+   Scaricala da Google Play
 
-       "
+   "
+```
 
 loc="/assets/images/badges" file="get-it-on-google-play.png" width="170" islink =
 true %} {% endcapture %}
 
 {% capture img-FD %} {% include image.html alt="
 
-       Scaricala da F-Droid
+```
+   Scaricala da F-Droid
 
-       "
+   "
+```
 
 loc="/assets/images/badges" file="get-it-on-fdroid.png" width="170" islink = true
 %} {% endcapture %}

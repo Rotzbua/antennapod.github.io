@@ -1,9 +1,9 @@
 ---
 title: documentation.categories.general.proxy
 layout: doc
-level: "2"
-group: "general"
-icon: "fa-solid fa-network-wired"
+level: '2'
+group: general
+icon: fa-solid fa-network-wired
 ---
 
 # {% t {{ page.title }} %}
