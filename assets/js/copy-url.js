@@ -1,12 +1,15 @@
-const copyUrl = () => {
-  const url = document.location.href;
+/**
+ * @param {Event} e
+ */
+const copyUrl = (e) => {
+  const url = (e.target.value == null) ? document.location.href : e.target.value;
 
   navigator.clipboard.writeText(url).then(
     () => {
       console.log('Copied to clipboard!');
     },
     () => {
-      console.log('Copy to clipboard error!');
+      console.warn('Copy to clipboard error!');
     }
   );
 }
