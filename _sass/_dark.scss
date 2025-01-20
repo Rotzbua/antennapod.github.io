@@ -12,12 +12,13 @@
  * elements optioned in by a `prefers-color-scheme: dark` media query
  */
 
-  @import "./bootstrap-dark/utilities";
   @import "./bootstrap-dark/functions";
   @import "./bootstrap-dark/variables-alt";
   @import "./bootstrap-dark/buttons";
+  @import "./bootstrap-dark/breadcrumb";
   @import "./bootstrap-dark/modal";
   @import "./bootstrap-dark/card";
+  @import "./bootstrap-dark/_utilities";
 
     :root {
         --bs-secondary-color: #ddd;
