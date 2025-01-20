@@ -1,9 +1,12 @@
-function copyUrl() {
-  let url = (event.target.value ==null) ? document.location.href:event.target.value;
+const copyUrl = () => {
+  const url = document.location.href;
 
-  navigator.clipboard.writeText(url).then(function() {
-      console.log('Copied!');
-  }, function() {
-      console.log('Copy error')
-  });
-};
+  navigator.clipboard.writeText(url).then(
+    () => {
+      console.log('Copied to clipboard!');
+    },
+    () => {
+      console.log('Copy to clipboard error!');
+    }
+  );
+}
