@@ -3,6 +3,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4"
 # jekyll plugins
 gem "jekyll-mentions"
+gem "jekyll-sitemap"
+gem "jekyll-last-modified-at"
 gem "jekyll-multiple-languages-plugin"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem and associated library.

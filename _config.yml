@@ -17,15 +17,17 @@ future: true
 plugins:
   - jekyll-multiple-languages-plugin
   - jekyll-mentions
+#  - jekyll-sitemap
+  - jekyll-last-modified-at
 
 permalink: /:categories/:title
 
 # Localization
-languages: [en, fr, nl, it, da, de, es]
+languages: [ en, fr, nl, it, da, de, es ]
 # don't forget to add new languages also in _data/locales.yml
 defaultLang: en
 default_locale_in_subfolder: false
-exclude_from_localizations: ["assets"]
+exclude_from_localizations: [ "assets" ]
 
 # Collections
 collections:
@@ -49,6 +51,18 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: "assets/**/*"
+    values:
+      sitemap: false
+  - scope:
+      path: "deeplink/**/*"
+    values:
+      sitemap: false
+  - scope:
+      path: "**/*.{ics,xml}"
+    values:
+      sitemap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
